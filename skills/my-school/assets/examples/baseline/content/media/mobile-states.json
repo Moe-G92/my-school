@@ -1,0 +1,65 @@
+{
+ "lesson": "mobile-states",
+ "videos": [
+  {
+   "title": "Skeleton Screens vs. Progress Bars vs. Spinners",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=4GWqJEfzvmg",
+   "minutes": 4,
+   "year": 2024,
+   "why": "Three ways to show that something is loading, and which one to use depending on how long the wait is and what is loading."
+  },
+  {
+   "title": "WWDC19: Designing Audio-Haptic Experiences | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=-hvClUdSlhA",
+   "minutes": 26,
+   "year": 2019,
+   "why": "Apple's principles for sound and haptic feedback, and how combining the two makes taps, alerts and actions feel more real."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "UXpod",
+   "episode": "Microinteractions: An interview with Dan Saffer",
+   "url": "https://podcasts.apple.com/gb/podcast/microinteractions-an-interview-with-dan-saffer/id163924332?i=1000304877264",
+   "minutes": 31,
+   "year": 2014,
+   "why": "The author of Microinteractions on signature moments and why the small details of feedback make an app feel cared for."
+  },
+  {
+   "show": "Designer Vs Developer",
+   "episode": "Addy Osmani on designing for great performance",
+   "url": "https://podcasts.apple.com/gb/podcast/addy-osmani-on-designing-for-great-performance/id1232586843?i=1000390766810",
+   "minutes": 14,
+   "year": 2017,
+   "why": "A short conversation with Chrome engineer Addy Osmani on how design decisions affect how fast an app feels."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Using Swipe to Trigger Contextual Actions",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/contextual-swipe/",
+   "minutes": 9,
+   "free": true,
+   "why": "When swipe actions on list items help, and the problems they cause when they are hidden from view or used inconsistently within one app."
+  },
+  {
+   "title": "Invisible Details of Interaction Design",
+   "source": "Rauno Freiberg",
+   "url": "https://rauno.me/craft/interaction-design",
+   "minutes": 15,
+   "free": true,
+   "why": "A visual essay on why good gestures feel natural, covering momentum, interruptible motion and reusing metaphors people already know."
+  },
+  {
+   "title": "Designing Empty States in Complex Applications: 3 Guidelines",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/empty-state-interface-design/",
+   "minutes": 9,
+   "free": true,
+   "why": "How to use an empty screen to explain what will appear there and how to get started, instead of leaving people stuck."
+  }
+ ]
+}

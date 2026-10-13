@@ -1,0 +1,57 @@
+{
+ "lesson": "mobile-basics",
+ "videos": [
+  {
+   "title": "Everything you need to know about Mobile App UI’s in 8 minutes (beginner friendly)",
+   "channel": "Kole Jain",
+   "url": "https://www.youtube.com/watch?v=Gfsd8NNuD9g",
+   "minutes": 8,
+   "year": 2026,
+   "why": "A quick visual primer on mobile navigation, scale, one job per screen, gestures and empty states, with a free Figma file."
+  },
+  {
+   "title": "Steven Hoober - How People Really Hold and Touch",
+   "channel": "ConveyUX",
+   "url": "https://www.youtube.com/watch?v=O8iH73rEY8M",
+   "minutes": 36,
+   "year": 2014,
+   "why": "A researcher who has run his own studies on grip and touch shows how people really hold phones and how to size touch targets so they work reliably."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "The Big Web Show",
+   "episode": "Episode 139: Every Time We Touch—Josh Clark, author of “Designing For Touch”",
+   "url": "https://bigwebshow.fireside.fm/139",
+   "minutes": 57,
+   "year": 2015,
+   "why": "The author of Designing For Touch on how a design feels in the hand, and why touch changes where controls belong."
+  }
+ ],
+ "reads": [
+  {
+   "title": "The Thumb Zone: Designing For Mobile Users",
+   "source": "Smashing Magazine",
+   "url": "https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/",
+   "minutes": 10,
+   "free": true,
+   "why": "Explains the thumb zone, the parts of the screen that are easy or a stretch to reach, with real app examples of where navigation and close buttons should sit."
+  },
+  {
+   "title": "Design for Fingers, Touch, and People, Part 1",
+   "source": "UXmatters (Steven Hoober)",
+   "url": "https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php",
+   "minutes": 20,
+   "free": true,
+   "why": "Hoober's own write-up of his research on grip and accuracy, including why people prefer to view and tap the centre of the screen."
+  },
+  {
+   "title": "Touch Targets on Touchscreens",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/touch-target-size/",
+   "minutes": 10,
+   "free": true,
+   "why": "How big tap targets should be, why, and how much space to leave between them."
+  }
+ ]
+}

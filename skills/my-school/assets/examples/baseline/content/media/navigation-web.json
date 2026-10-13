@@ -1,0 +1,57 @@
+{
+ "lesson": "navigation-web",
+ "videos": [
+  {
+   "title": "11 UX Tips for Successful Navigations (in 7 minutes!)",
+   "channel": "DesignCourse",
+   "url": "https://www.youtube.com/watch?v=D29KL52Srtw",
+   "minutes": 8,
+   "year": 2021,
+   "why": "Eleven quick, practical checks for a site's main navigation, covering usability and accessibility, that you can run against your own header today."
+  },
+  {
+   "title": "Information Scent",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=-c9AUhXAFD8",
+   "minutes": 5,
+   "year": 2020,
+   "why": "Why people click some links and ignore others, judging from the label and its surroundings what waits on the other side."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "UI Breakfast",
+   "episode": "Episode 111: Effective Website Navigation with Els Aerts",
+   "url": "https://uibreakfast.com/111-effective-website-navigation-with-els-aerts/",
+   "minutes": 44,
+   "year": 2018,
+   "why": "A usability expert on the core principles of navigation, deciding what deserves the spotlight, and common pitfalls to avoid."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Menu-Design Checklist: 17 UX Guidelines",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/menu-design/",
+   "minutes": 9,
+   "free": true,
+   "why": "Seventeen checks grouped into four jobs, from keeping navigation visible and showing the current location to making menus easy to use."
+  },
+  {
+   "title": "Navigation: You Are Here",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/navigation-you-are-here/",
+   "minutes": 8,
+   "free": true,
+   "why": "The cues that tell people where they are on a site, such as the logo, a highlighted menu item, headings, page titles and readable URLs."
+  },
+  {
+   "title": "Breadcrumbs: 11 Design Guidelines for Desktop and Mobile",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/breadcrumbs/",
+   "minutes": 9,
+   "free": true,
+   "why": "When breadcrumbs help and how to design them, including why they should show the site's structure and never the visitor's click history."
+  }
+ ]
+}

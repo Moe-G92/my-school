@@ -1,0 +1,57 @@
+{
+ "lesson": "everyday-things",
+ "videos": [
+  {
+   "title": "It's not you. Bad doors are everywhere.",
+   "channel": "Vox",
+   "url": "https://www.youtube.com/watch?v=yY96hTb8WgI",
+   "minutes": 6,
+   "year": 2016,
+   "why": "Vox and 99% Invisible visit Don Norman to explain why a door that needs a 'push' sign has failed; watch for the handles that invite pulling, then hunt for the screen version, a button that looks like plain text."
+  },
+  {
+   "title": "Flat UI Elements Lack Clickability Clues and Cause Confusion",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=pDFMWXr-v_E",
+   "minutes": 5,
+   "year": 2018,
+   "why": "Kate Moran presents eyetracking studies where people hesitated over flat designs with weak signifiers; note which missing clues (shape, colour, underline) caused the extra searching."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Twenty Thousand Hertz",
+   "episode": "Auditory Icons: Credit card beeps to driverless car melodies",
+   "url": "https://podcasts.apple.com/gb/podcast/auditory-icons-credit-card-beeps-to-driverless-car/id1171270672?i=1000522327240",
+   "minutes": 17,
+   "year": 2021,
+   "why": "What separates a good device sound from a bad one, from card reader beeps to alert tones; listen to it as the audio version of the feedback a button should give on screen."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Beyond Blue Links: Making Clickable Elements Recognizable",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/clickable-elements/",
+   "minutes": 6,
+   "free": true,
+   "why": "The visual signals that tell people something can be clicked or tapped; use it as a checklist against the buttons and links in your own app."
+  },
+  {
+   "title": "Apple’s products are getting harder to use because they ignore the principles of design.",
+   "source": "Don Norman, jnd.org",
+   "url": "https://jnd.org/apples-products-are-getting-harder-to-use-because-they-ignore-the-principles-of-design/",
+   "minutes": 3,
+   "free": true,
+   "why": "Norman's short complaint about hidden gestures, missing feedback, no undo and unlabelled icons; read it for the vocabulary, then spot the same problems in apps you use daily."
+  },
+  {
+   "title": "Visibility of System Status",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/visibility-system-status/",
+   "minutes": 8,
+   "free": true,
+   "why": "The first of Nielsen's usability heuristics, which is about feedback; the examples show what to add when your app goes quiet after someone clicks."
+  }
+ ]
+}

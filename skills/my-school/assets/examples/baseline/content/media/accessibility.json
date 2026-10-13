@@ -1,0 +1,65 @@
+{
+ "lesson": "accessibility",
+ "videos": [
+  {
+   "title": "Web Accessibility Perspectives - Compilation of 10 Topics/Videos",
+   "channel": "W3C Web Accessibility Initiative (WAI)",
+   "url": "https://www.youtube.com/watch?v=3f31oufqFSM",
+   "minutes": 8,
+   "year": 2016,
+   "why": "Ten short real-life scenes showing how captions, contrast, keyboard use and clear layout help disabled people and everyone else."
+  },
+  {
+   "title": "WWDC25: Principles of inclusive app design | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=pD43DI-VA20",
+   "minutes": 21,
+   "year": 2025,
+   "why": "How understanding disability leads to better apps for everyone, through multiple ways to interact, customisation and the built-in accessibility features."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "99% Invisible",
+   "episode": "Curb Cuts",
+   "url": "https://99percentinvisible.org/episode/308-curb-cuts/",
+   "minutes": 45,
+   "year": 2018,
+   "why": "The story of the small ramps at street corners, won by disability activists, and how a fix for some people ended up helping almost everyone."
+  },
+  {
+   "show": "Honest UX Talks",
+   "episode": "#96 Designing for accessibility w/ Anna Cook",
+   "url": "https://podcasts.apple.com/gb/podcast/96-designing-for-accessibility-w-anna-cook/id1547832809?i=1000649048160",
+   "minutes": 40,
+   "year": 2024,
+   "why": "An accessibility designer on why teams overlook it and how to build it into everyday design work from the start."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Designing for Web Accessibility",
+   "source": "W3C Web Accessibility Initiative",
+   "url": "https://www.w3.org/WAI/tips/designing/",
+   "minutes": 10,
+   "free": true,
+   "why": "Ten design tips, from contrast and colour to labels and feedback, each linked to the WCAG rule behind it."
+  },
+  {
+   "title": "Accessibility",
+   "source": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/accessibility",
+   "minutes": 15,
+   "free": true,
+   "why": "Apple's concrete rules for text size, contrast, hit targets and motion, useful even if you only build for the web."
+  },
+  {
+   "title": "Microsoft Inclusive Design",
+   "source": "Microsoft",
+   "url": "https://inclusive.microsoft.design/",
+   "minutes": 10,
+   "free": true,
+   "why": "The principles behind Microsoft's inclusive design approach, with real product examples and the lived experiences of disabled people."
+  }
+ ]
+}

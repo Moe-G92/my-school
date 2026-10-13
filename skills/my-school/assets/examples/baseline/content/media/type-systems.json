@@ -1,0 +1,57 @@
+{
+ "lesson": "type-systems",
+ "videos": [
+  {
+   "title": "The 80% of UI Design - Typography",
+   "channel": "Sajid",
+   "url": "https://www.youtube.com/watch?v=9-oefwZ6Z74",
+   "minutes": 12,
+   "year": 2024,
+   "why": "Sajid's method for choosing font size, weight and colour for interface text, built on the point that most of a UI is type; compare his sizes with the scale you build in lab-type-scale."
+  },
+  {
+   "title": "The right Line Length & Line Height in Typography",
+   "channel": "Pimp my Type",
+   "url": "https://www.youtube.com/watch?v=6UC5ANh-wT0",
+   "minutes": 10,
+   "year": 2021,
+   "why": "Line length from 2:22 and line height from 4:37, including why headings need tighter line height (7:37); note he lands on 60 to 80 characters for desktop reading, a little wider than the 45 to 75 range in this lesson."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "UI Breakfast",
+   "episode": "Episode 268: UI Typography with Oliver Schöndorfer",
+   "url": "https://podcasts.apple.com/gb/podcast/episode-268-ui-typography-with-oliver-sch%C3%B6ndorfer/id939175693?i=1000614567083",
+   "minutes": 50,
+   "year": 2023,
+   "why": "The Pimp my Type designer on choosing a typeface for a software product and why small details matter so much in product typography; useful background for lab-pairing."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Typography in ten minutes",
+   "source": "Butterick's Practical Typography",
+   "url": "https://practicaltypography.com/typography-in-ten-minutes.html",
+   "minutes": 3,
+   "free": true,
+   "why": "Five rules that start with making the body text look good first, then size (15 to 25 pixels on the web), line spacing, line length and font choice; the fastest useful page on type."
+  },
+  {
+   "title": "Typography",
+   "source": "Material Design 3 (type scale and tokens)",
+   "url": "https://m3.material.io/styles/typography/type-scale-tokens",
+   "minutes": 8,
+   "free": true,
+   "why": "Google's scale of named styles from Display Large to Label Small, with the reminder that no single product uses all of them; a model for naming your own sizes by role instead of by pixel value."
+  },
+  {
+   "title": "Typography",
+   "source": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/typography",
+   "minutes": 10,
+   "free": true,
+   "why": "Apple's default and minimum text sizes for each platform (17 pt and 11 pt on iPhone), plus advice to avoid light weights and to keep the number of typefaces small."
+  }
+ ]
+}

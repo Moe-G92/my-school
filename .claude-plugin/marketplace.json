@@ -1,0 +1,14 @@
+{
+  "name": "my-school-marketplace",
+  "owner": {
+    "name": "My School"
+  },
+  "description": "Marketplace for the My School skill",
+  "plugins": [
+    {
+      "name": "my-school",
+      "source": "./",
+      "description": "Build a personal, interactive school for any subject: lessons, read-aloud, verified videos and podcasts, hands-on labs, quick checks, a journal, a glossary and an AI coach."
+    }
+  ]
+}

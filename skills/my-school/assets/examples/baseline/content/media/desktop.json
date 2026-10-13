@@ -1,0 +1,65 @@
+{
+ "lesson": "desktop",
+ "videos": [
+  {
+   "title": "Design Patterns For Complex Apps and Workflows",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=P1CYZ65b5SA",
+   "minutes": 4,
+   "year": 2018,
+   "why": "Two design principles for supporting the complex, repetitive workflows that desktop tools are used for."
+  },
+  {
+   "title": "Exploring the Fluent Design System",
+   "channel": "Microsoft Developer",
+   "url": "https://www.youtube.com/watch?v=xH9_I86L8ag",
+   "minutes": 22,
+   "year": 2018,
+   "why": "A Microsoft designer explains why Fluent was created for Windows, how it supports different ways of interacting across devices, and how it compares with Material Design."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "AppStories",
+   "episode": "The State of Non-Native Apps",
+   "url": "https://www.macstories.net/podcasts/appstories/12/",
+   "minutes": 38,
+   "year": 2017,
+   "why": "Two long-time Apple app reviewers on the trade-offs of apps built with web technology, with examples they like and a few they do not."
+  },
+  {
+   "show": "Lenny's Podcast",
+   "episode": "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)",
+   "url": "https://www.lennysnewsletter.com/p/inside-linear-building-with-taste",
+   "minutes": 100,
+   "year": 2023,
+   "why": "The designer and co-founder of Linear, a fast, keyboard-driven work tool, on prioritising craft and quality in software people use all day."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Designing for macOS",
+   "source": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-macos",
+   "minutes": 6,
+   "free": true,
+   "why": "What sets the Mac apart, such as large displays, long sessions of focused work, several apps open at once and many input methods, and the best practices that follow."
+  },
+  {
+   "title": "8 Design Guidelines for Complex Applications",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/complex-application-design/",
+   "minutes": 11,
+   "free": true,
+   "why": "Guidelines for dense, data-heavy tools, such as helping people track their work across workspaces and reducing clutter without reducing capability."
+  },
+  {
+   "title": "How to build a remarkable command palette",
+   "source": "Superhuman",
+   "url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/",
+   "minutes": 13,
+   "free": true,
+   "why": "How a Cmd+K command palette lets people do any action quickly and learn its shortcut for next time, with the details that make one work well."
+  }
+ ]
+}

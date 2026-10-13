@@ -1,0 +1,7 @@
+G([
+  { id: "perceived-performance", term: "Perceived performance", def: "How fast something feels, as opposed to how fast it measures. Instant feedback, skeleton screens and optimistic updates make a product feel quicker without changing the server.", lesson: "web-craft", see: ["skeleton-screen", "optimistic-ui"] },
+  { id: "core-web-vitals", term: "Core Web Vitals", def: "Google's three headline measures of page experience: how quickly the main content appears (LCP), how quickly the page responds to input (INP) and how much the layout jumps (CLS).", lesson: "web-craft", see: ["layout-shift", "perceived-performance"] },
+  { id: "ui-stack", term: "UI stack", def: "Scott Hurff's idea that every screen has five states to design: ideal, empty, error, partial and loading. Most generated interfaces only design the ideal one.", lesson: "web-craft", see: ["empty-state", "skeleton-screen"] },
+  { id: "favicon", term: "Favicon", def: "The small icon shown in browser tabs, bookmarks and home-screen shortcuts. It needs to read at 16 pixels, so it is usually a simplified mark, not the full logo.", lesson: "web-craft", see: ["open-graph"] },
+  { id: "open-graph", term: "Open Graph", def: "Meta tags that control the title, description and image shown when a link is shared in chat apps and social networks. Without them, platforms guess, often badly.", lesson: "web-craft", see: ["favicon"] },
+]);

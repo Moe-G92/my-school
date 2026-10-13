@@ -1,0 +1,57 @@
+{
+ "lesson": "depth",
+ "videos": [
+  {
+   "title": "The Easy Way to Fix Boring UIs",
+   "channel": "Sajid",
+   "url": "https://www.youtube.com/watch?v=wcZ6jSlZqDc",
+   "minutes": 9,
+   "year": 2025,
+   "why": "Sajid's approach to depth with shades and layered shadows, including a three-shadow example on CodePen you can copy; compare his levels with the ones you build in lab-elevation."
+  },
+  {
+   "title": "WWDC25: Meet Liquid Glass | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=IrGYUq1mklk",
+   "minutes": 20,
+   "year": 2025,
+   "why": "Apple's newest material for controls that float above content; the principles section at 10:31 covers where this layer belongs and where it should stay out of the way."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Complementary",
+   "episode": "71: The materials interfaces are made of",
+   "url": "https://podcasts.apple.com/gb/podcast/71-the-materials-interfaces-are-made-of/id1671376839?i=1000740127057",
+   "minutes": 49,
+   "year": 2025,
+   "why": "Two interface designers on why screens imitate physical materials such as paper or metal, which ones are most common and how that has shifted over time; useful context for shadows, surfaces and glass."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Designing Beautiful Shadows in CSS",
+   "source": "Josh W. Comeau",
+   "url": "https://www.joshwcomeau.com/css/designing-shadows/",
+   "minutes": 19,
+   "free": true,
+   "why": "Interactive demos of a consistent light source, layered shadows and shadows tinted to the background; the reference for turning elevation levels into real box-shadow values."
+  },
+  {
+   "title": "Visual design rules you can safely follow every time",
+   "source": "Anthony Hobday",
+   "url": "https://anthonyhobday.com/sideprojects/saferules/",
+   "minutes": 8,
+   "free": true,
+   "why": "Read 'Nest corners properly', 'Closer elements should be lighter', 'Make drop shadow blur values double their distance values' and 'Don't mix depth techniques' first; the rest of the list is worth keeping too."
+  },
+  {
+   "title": "Elevation",
+   "source": "Material Design 3",
+   "url": "https://m3.material.io/styles/elevation/overview",
+   "minutes": 4,
+   "free": true,
+   "why": "Elevation as distance on the z-axis, shown with tonal surface colour or shadow; note Google's own advice to use only a few levels and to save shadows for when they are needed."
+  }
+ ]
+}

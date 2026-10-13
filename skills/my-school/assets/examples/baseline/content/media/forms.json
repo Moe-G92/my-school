@@ -1,0 +1,57 @@
+{
+ "lesson": "forms",
+ "videos": [
+  {
+   "title": "Julie Grundy – The UX of Form Design: Designing an Effective Form @ UX New Zealand 2017",
+   "channel": "Optimal",
+   "url": "https://www.youtube.com/watch?v=hPS7LUW7SlA",
+   "minutes": 29,
+   "year": 2017,
+   "why": "A full conference talk on designing a form people can finish; list each recommendation as you go and tick off which ones lab-form-fix already covers."
+  },
+  {
+   "title": "Better Forms Through Visual Organization",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=nA7ildepUJU",
+   "minutes": 3,
+   "year": 2020,
+   "why": "How to lay out fields and their labels so data entry is easier; watch it right before you rearrange your own sign-up form."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Complementary",
+   "episode": "35: Form Design with Adam Silver",
+   "url": "https://podcasts.apple.com/gb/podcast/35-form-design-with-adam-silver/id1671376839?i=1000657573784",
+   "minutes": 57,
+   "year": 2024,
+   "why": "The London-based author of Form Design Patterns on toggle switches, good and bad form experiences and the contrast of input borders, which ties straight back to lesson 12."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Question pages",
+   "source": "GOV.UK Design System",
+   "url": "https://design-system.service.gov.uk/patterns/question-pages/",
+   "minutes": 16,
+   "free": true,
+   "why": "The UK government's tested guidance for pages that ask questions, built on starting with one thing per page, with advice on headings, hint text and buttons."
+  },
+  {
+   "title": "Form design: from zero to hero all in one blog post",
+   "source": "Adam Silver",
+   "url": "https://adamsilver.io/blog/form-design-from-zero-to-hero-all-in-one-blog-post/",
+   "minutes": 4,
+   "free": true,
+   "why": "A compact tour of labels, question wording, microcopy, validation, flow and input types, with each point linking to a fuller article; note his rule to mark optional fields instead of required ones, and his case against placeholder and floating labels."
+  },
+  {
+   "title": "Website Forms Usability: Top 10 Recommendations",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/web-form-design/",
+   "minutes": 7,
+   "free": true,
+   "why": "Ten research-backed rules, including a single column with one field per row (short related fields such as city and postcode are the exception); a checklist to run against any form you build."
+  }
+ ]
+}

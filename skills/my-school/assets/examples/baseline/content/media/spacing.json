@@ -1,0 +1,57 @@
+{
+ "lesson": "spacing",
+ "videos": [
+  {
+   "title": "The Perfect Spacing Framework in UI Design | Figma Tutorial",
+   "channel": "Mizko",
+   "url": "https://www.youtube.com/watch?v=Al1xsdol4Pk",
+   "minutes": 9,
+   "year": 2023,
+   "why": "Mizko builds a spacing system in Figma and applies it to real components; compare his scale with the 4 and 8-point values you pick from in lab-spacing."
+  },
+  {
+   "title": "The Easy Way to Pick Perfect Spacing",
+   "channel": "Sajid",
+   "url": "https://www.youtube.com/watch?v=-O1ds-kPUZg",
+   "minutes": 10,
+   "year": 2026,
+   "why": "Sajid fixes spacing on real examples step by step, using grouping to decide which gaps should be small and which large; it is the proximity principle from lesson 6 put to work."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "The Changelog",
+   "episode": "Tactical design advice for developers",
+   "url": "https://changelog.com/podcast/333",
+   "minutes": 73,
+   "year": 2019,
+   "why": "Erik Kennedy of Learn UI Design on his rules for developers who design; from about 7:51 the hosts work through his list, including 'double your whitespace'. The page has a full transcript."
+  }
+ ],
+ "reads": [
+  {
+   "title": "The 8-Point Grid",
+   "source": "Bryn Jackson, spec.fm",
+   "url": "https://spec.fm/specifics/8-pt-grid",
+   "minutes": 6,
+   "free": true,
+   "why": "Why so many teams size and space everything in multiples of 8, and the difference between the 'hard grid' and 'soft grid' ways of applying it."
+  },
+  {
+   "title": "7 Rules for Creating Gorgeous UI (2024 update)",
+   "source": "Learn UI Design (Erik Kennedy)",
+   "url": "https://www.learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html",
+   "minutes": 11,
+   "free": true,
+   "why": "The first three of Erik Kennedy's rules, ending with 'double your whitespace'; read it with your busiest screen open and try the rule on it."
+  },
+  {
+   "title": "Box Model",
+   "source": "web.dev, Learn CSS",
+   "url": "https://web.dev/learn/css/box-model",
+   "minutes": 7,
+   "free": true,
+   "why": "The four areas of every box (content, padding, border, margin) with clear diagrams; the code side of the box model figure and lab."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "lesson": "web-anatomy",
+ "videos": [
+  {
+   "title": "How The Web Works - The Big Picture",
+   "channel": "Academind",
+   "url": "https://www.youtube.com/watch?v=hJHvdBlSxug",
+   "minutes": 12,
+   "year": 2019,
+   "why": "A high-level tour of what happens between typing an address and seeing a page, so terms like server, request and response stop being fuzzy."
+  },
+  {
+   "title": "The 6 most important CSS concepts for beginners",
+   "channel": "Kevin Powell",
+   "url": "https://www.youtube.com/watch?v=JnTPd9G6hoY",
+   "minutes": 29,
+   "year": 2022,
+   "why": "Inheritance, the cascade, the box model and specificity explained with the reasons behind them, which helps you read and fix the CSS an AI tool generates."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Syntax",
+   "episode": "The Fundamentals - HTML + CSS",
+   "url": "https://syntax.fm/show/158/the-fundamentals-html-css",
+   "minutes": 56,
+   "year": 2019,
+   "why": "Two working developers on why the HTML and CSS basics matter more than any framework, because abstractions work until they break."
+  },
+  {
+   "show": "The Scrimba Podcast",
+   "episode": "How not to struggle with CSS, with Kevin Powell",
+   "url": "https://podcasts.apple.com/gb/podcast/how-not-to-struggle-with-css-with-kevin-powell/id1537632252?i=1000560356050",
+   "minutes": 41,
+   "year": 2022,
+   "why": "Why people find CSS frustrating at first and how to debug it calmly, from a teacher who focuses on how CSS works and why."
+  }
+ ],
+ "reads": [
+  {
+   "title": "How the web works",
+   "source": "MDN Web Docs",
+   "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works",
+   "minutes": 8,
+   "free": true,
+   "why": "Clients, servers, DNS and HTTP explained through a simple house-and-shop comparison, with no prior knowledge needed."
+  },
+  {
+   "title": "Structuring documents",
+   "source": "MDN Web Docs",
+   "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents",
+   "minutes": 12,
+   "free": true,
+   "why": "The standard page regions (header, navigation, main content, sidebar, footer) and the HTML elements that mark each one."
+  },
+  {
+   "title": "Box Model",
+   "source": "web.dev",
+   "url": "https://web.dev/learn/css/box-model",
+   "minutes": 9,
+   "free": true,
+   "why": "Content, padding, border and margin with interactive demos, the foundation for every spacing decision in lesson 9."
+  }
+ ]
+}

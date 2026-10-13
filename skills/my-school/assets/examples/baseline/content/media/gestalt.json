@@ -1,0 +1,57 @@
+{
+ "lesson": "gestalt",
+ "videos": [
+  {
+   "title": "The Gestalt Principles for User Interface Design",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=DwR0SZTBMTU",
+   "minutes": 3,
+   "year": 2022,
+   "why": "A quick overview of how grouping principles decide which elements people see as one unit and which as separate; watch it first, then the proximity video."
+  },
+  {
+   "title": "Proximity: Gestalt Principle for User Interface Design",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=7JTDGGJT_Ng",
+   "minutes": 3,
+   "year": 2022,
+   "why": "Shows how spacing alone tells people which items belong together and which play different roles; it is the same effect the lab-gestalt sliders let you try by hand."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "97 UX Things",
+   "episode": "Follow These Principles of Gestalt for Better UX Designs (feat. Erin Malone)",
+   "url": "https://podcasts.apple.com/gb/podcast/follow-these-principles-of-gestalt-for-better-ux/id1571512643?i=1000618494330",
+   "minutes": 19,
+   "year": 2023,
+   "why": "Erin Malone talks through her short chapter on Gestalt for UX practitioners; a compact audio recap of the principles in this lesson for a walk or commute."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Proximity Principle in Visual Design",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/gestalt-proximity/",
+   "minutes": 7,
+   "free": true,
+   "why": "The most useful Gestalt principle for interfaces, with examples from text layout and forms, including why twelve fields in three groups of four feel easier than one long list."
+  },
+  {
+   "title": "Similarity Principle in Visual Design",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/gestalt-similarity/",
+   "minutes": 8,
+   "free": true,
+   "why": "How shared colour, shape or size makes items read as related; note the advice to reserve your link colour for things that are actually clickable."
+  },
+  {
+   "title": "The Principle of Common Region: Containers Create Groupings",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/common-region/",
+   "minutes": 7,
+   "free": true,
+   "why": "Why cards, panels and boxed sections work, and when a background or border is stronger than spacing alone; useful before you wrap everything in a card."
+  }
+ ]
+}

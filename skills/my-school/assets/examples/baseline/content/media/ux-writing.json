@@ -1,0 +1,64 @@
+{
+ "lesson": "ux-writing",
+ "videos": [
+  {
+   "title": "WWDC22: Writing for interfaces | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=Nt5hlSLzhpo",
+   "minutes": 24,
+   "year": 2022,
+   "why": "Apple's guidance on writing alerts, onboarding and image descriptions so they read as clear, conversational and helpful."
+  },
+  {
+   "title": "Config 2025: Writing is designing with Andy Welfle",
+   "channel": "Figma",
+   "url": "https://www.youtube.com/watch?v=2IbCtThC12c",
+   "minutes": 23,
+   "year": 2025,
+   "why": "How words shape a product from the first wireframe to the final microcopy, covering verbs, voice and tone, tooltips and error messages."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "UX Podcast",
+   "episode": "#231 Writing is designing with Michael Metts and Andy Welfle",
+   "url": "https://uxpodcast.com/231-writing-is-designing-michael-metts-andy-welfle/",
+   "year": 2020,
+   "why": "How to apply a design process to words by researching the language people use, then drafting, testing and iterating."
+  },
+  {
+   "show": "Writers in Tech",
+   "episode": "How UX Writing and Content Design Moves Metrics at Duolingo with Mary van Ogtrop",
+   "url": "https://podcasts.apple.com/gb/podcast/how-ux-writing-and-content-design-moves-metrics-at/id1467160757?i=1000711079890",
+   "minutes": 28,
+   "year": 2025,
+   "why": "Duolingo's head of product writing on keeping a strong voice consistent across a fast-moving app, including an internal AI writing tool."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Error-Message Guidelines",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/error-message-guidelines/",
+   "minutes": 9,
+   "free": true,
+   "why": "What makes an error message visible, specific and helpful, with good and bad examples you can compare against your own app."
+  },
+  {
+   "title": "Error message",
+   "source": "GOV.UK Design System",
+   "url": "https://design-system.service.gov.uk/components/error-message/",
+   "minutes": 10,
+   "free": true,
+   "why": "Ready-made wording patterns for the most common form errors, tested with the UK public."
+  },
+  {
+   "title": "Mailchimp Content Style Guide",
+   "source": "Mailchimp",
+   "url": "https://styleguide.mailchimp.com/",
+   "minutes": 15,
+   "free": true,
+   "why": "A well-known public style guide that shows how to define voice and tone and write clear rules for interface text."
+  }
+ ]
+}

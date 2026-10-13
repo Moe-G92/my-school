@@ -1,0 +1,57 @@
+{
+ "lesson": "heuristics",
+ "videos": [
+  {
+   "title": "10 Usability Heuristics - explained with examples | MastermindProduct™",
+   "channel": "Jarek Ceborski",
+   "url": "https://www.youtube.com/watch?v=sIP71g8ueK0",
+   "minutes": 14,
+   "year": 2020,
+   "why": "All ten heuristics in one sitting, with examples from Google apps, Figma, Notion and iOS."
+  },
+  {
+   "title": "How to Conduct a Heuristic Evaluation",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=sqi0-Lz_ZTY",
+   "minutes": 5,
+   "year": 2024,
+   "why": "The review method step by step, with a free fillable workbook linked from the video description."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "NN/G UX Podcast",
+   "episode": "25. Discount Usability: Expert Reviews and Heuristic Evaluations (feat. Evan Sunwall, UX Specialist, NNg)",
+   "url": "https://podcasts.apple.com/gb/podcast/25-discount-usability-expert-reviews-and-heuristic/id1711271084?i=1000630871740",
+   "minutes": 36,
+   "year": 2023,
+   "why": "How cheap inspection methods like expert reviews find the highest-priority problems when there is little time or budget for research."
+  }
+ ],
+ "reads": [
+  {
+   "title": "10 Usability Heuristics for User Interface Design",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+   "minutes": 10,
+   "free": true,
+   "why": "The original list in its 2020 wording, with a short example for each and free posters you can print."
+  },
+  {
+   "title": "Heuristic Evaluations: How to Conduct",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/",
+   "minutes": 9,
+   "free": true,
+   "why": "A worked guide with a template, so you can run your first review on your own product this week."
+  },
+  {
+   "title": "10 Usability Heuristics Applied to Video Games",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/usability-heuristics-applied-video-games/",
+   "minutes": 12,
+   "free": true,
+   "why": "Seeing the heuristics in games you may know makes them easier to spot in ordinary apps."
+  }
+ ]
+}

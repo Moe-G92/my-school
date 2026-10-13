@@ -1,0 +1,57 @@
+{
+ "lesson": "contrast",
+ "videos": [
+  {
+   "title": "FIX Color Contrast – Accessibility in Web & UI Design",
+   "channel": "Pimp my Type",
+   "url": "https://www.youtube.com/watch?v=gdohlUn7fVQ",
+   "minutes": 11,
+   "year": 2023,
+   "why": "Covers text contrast, then the rule for UI components at 3:57, with three fixes from 5:03 (add a border, add another signifier, consider context) and a real pass and fail from YouTube's own interface at 7:42."
+  },
+  {
+   "title": "Making Games Better for Gamers with Colourblindness & Low Vision | Designing for Disability",
+   "channel": "Game Maker's Toolkit",
+   "url": "https://www.youtube.com/watch?v=xrqdU4cZaLw",
+   "minutes": 14,
+   "year": 2018,
+   "why": "A clear, well-illustrated look at how games handle colour blindness and low vision; the lesson that carries straight over to interfaces is backing up colour with shape, pattern or text."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Stuff You Should Know",
+   "episode": "What is colorblindness?",
+   "url": "https://podcasts.apple.com/gb/podcast/what-is-colorblindness/id278981407?i=1000420421518",
+   "minutes": 36,
+   "year": 2018,
+   "why": "A plain-language explainer of colour vision deficiency as a spectrum from dulled colours to shades of grey; useful background before you try the simulations in lab-cvd."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Understanding SC 1.4.3 Contrast (Minimum) (Level AA)",
+   "source": "W3C Web Accessibility Initiative",
+   "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+   "minutes": 12,
+   "free": true,
+   "why": "The official explanation of 4.5:1 for normal text and 3:1 for large text, including what counts as large and the note that ratios are never rounded up, so 4.49:1 fails."
+  },
+  {
+   "title": "Understanding SC 1.4.11 Non-text Contrast (Level AA)",
+   "source": "W3C Web Accessibility Initiative",
+   "url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html",
+   "minutes": 12,
+   "free": true,
+   "why": "The 3:1 rule for input borders, icons, focus indicators and the parts of charts; it is the rule that pale grey form fields, a favourite of AI-generated layouts, break most often."
+  },
+  {
+   "title": "Contrast and Color Accessibility",
+   "source": "WebAIM",
+   "url": "https://webaim.org/articles/contrast/",
+   "minutes": 11,
+   "free": true,
+   "why": "Walks through each WCAG contrast and colour requirement in plain English, with sample pairs sitting right at 4.5:1 that show how weak a bare pass can look."
+  }
+ ]
+}

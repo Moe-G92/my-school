@@ -1,0 +1,65 @@
+{
+ "lesson": "icons-imagery",
+ "videos": [
+  {
+   "title": "Anatomy of Good Icons",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=9MRTqn9tRl8",
+   "minutes": 3,
+   "year": 2025,
+   "why": "Layout, stroke thickness (0:57) and corner treatment (1:53) in under four minutes; these are exactly the things lab-icons asks you to spot when one icon breaks the set."
+  },
+  {
+   "title": "Decorative Images: Delightful or Dreadful?",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=Y3m9kpK0rok",
+   "minutes": 3,
+   "year": 2018,
+   "why": "Decorative images can set tone, but they must never get in the way of the task; ask that of every hero image an AI tool adds to your pages."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Y Combinator Startup Podcast",
+   "episode": "Susan Kare: Designing Icons & Graphics For the Original Mac",
+   "url": "https://podcasts.apple.com/gb/podcast/susan-kare-designing-icons-graphics-for-the-original-mac/id1236907421?i=1000786540829",
+   "minutes": 52,
+   "year": 2026,
+   "why": "The designer of many of the original Macintosh icons on how small symbols made a new kind of computer feel understandable; listen for how she thinks about making a picture readable in very few pixels."
+  },
+  {
+   "show": "NN/g UX Podcast",
+   "episode": "42. Icons that Work (feat Kate Kaplan, Insights Architect @ NN/g)",
+   "url": "https://podcasts.apple.com/gb/podcast/42-icons-that-work-feat-kate-kaplan-insights-architect-nn-g/id1527196035?i=1000669480049",
+   "minutes": 35,
+   "year": 2024,
+   "why": "Kate Kaplan on what her research for the book Digital Icons That Work found about which icons people understand; the companion to the NN/g icon video and article."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Icon Usability",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/icon-usability/",
+   "minutes": 9,
+   "free": true,
+   "why": "Only a few icons, such as home, print and the magnifying glass for search, are close to universal, so most icons need a text label; check every unlabelled icon in your app against it."
+  },
+  {
+   "title": "Designing icons",
+   "source": "Material Design 3",
+   "url": "https://m3.material.io/styles/icons/designing-icons",
+   "minutes": 5,
+   "free": true,
+   "why": "The grid behind this lesson's icon figure, with a 24dp icon, a 20dp live area, 2dp of padding and keyline shapes that keep round, square and wide icons visually balanced."
+  },
+  {
+   "title": "Photos as Web Content",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/photos-as-web-content/",
+   "minutes": 5,
+   "free": true,
+   "why": "Eyetracking shows people ignore generic feel-good pictures and study images that carry information, such as product shots and photos of real people; a test for every image you add."
+  }
+ ]
+}

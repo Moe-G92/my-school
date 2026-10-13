@@ -1,0 +1,65 @@
+{
+ "lesson": "process",
+ "videos": [
+  {
+   "title": "My product design process – a walkthrough of the Double Diamond UX Design Process",
+   "channel": "femke.design",
+   "url": "https://www.youtube.com/watch?v=ExFeZaMJ6yA",
+   "minutes": 14,
+   "year": 2022,
+   "why": "A working product designer walks through both diamonds and the methods she reaches for in each phase; notice how much happens before a single screen is drawn."
+  },
+  {
+   "title": "When is High-fidelity Worth It?",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=2tmb1fbRkJ8",
+   "minutes": 3,
+   "year": 2025,
+   "why": "Four questions for deciding how polished a piece of process work should be; useful when an AI tool can hand you a finished-looking screen in seconds and tempt you to skip the rough stage."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Design Better",
+   "episode": "Jake Knapp: Lessons from running 150+ design sprints at Google Ventures",
+   "url": "https://podcasts.apple.com/gb/podcast/jake-knapp-lessons-from-running-150-design-sprints/id1266839739?i=1000392938133",
+   "minutes": 58,
+   "year": 2017,
+   "why": "The creator of the design sprint on squeezing the whole process into one week; listen for how the sprint still starts with understanding the problem and ends with real people trying a prototype."
+  },
+  {
+   "show": "Complementary",
+   "episode": "21: Wireframing",
+   "url": "https://podcasts.apple.com/gb/podcast/21-wireframing/id1671376839?i=1000634539012",
+   "minutes": 35,
+   "year": 2023,
+   "why": "Two working interface designers try to define a wireframe and argue about when one is worth making; good context for deciding where low fidelity fits in your own process."
+  }
+ ],
+ "reads": [
+  {
+   "title": "The Double Diamond",
+   "source": "Design Council",
+   "url": "https://www.designcouncil.org.uk/our-resources/the-double-diamond/",
+   "minutes": 3,
+   "free": true,
+   "why": "The source page from the UK body that created the model, with a short paragraph on each of the four phases; note its point that testing early ideas can send you back to the start, which is normal."
+  },
+  {
+   "title": "UX Prototypes: Low Fidelity vs. High Fidelity",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/",
+   "minutes": 12,
+   "free": true,
+   "why": "Breaks fidelity into visuals, content and interactivity, and says what each level is good for testing; it maps directly onto the fidelity figure."
+  },
+  {
+   "title": "How the discovery phase works",
+   "source": "GOV.UK Service Manual",
+   "url": "https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works",
+   "minutes": 7,
+   "free": true,
+   "why": "How UK government teams run the first diamond in practice, including what they need to learn before building anything; a plain, real-world example of process."
+  }
+ ]
+}

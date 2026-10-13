@@ -1,0 +1,65 @@
+{
+ "lesson": "what-is-design",
+ "videos": [
+  {
+   "title": "WWDC26: Principles of great design | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=Xa9L2yx_QH8",
+   "minutes": 17,
+   "year": 2026,
+   "why": "Apple's designers name eight principles behind their apps (purpose, agency, responsibility, familiarity, flexibility, simplicity, craft, delight); as you watch, count how few of them are about how things look."
+  },
+  {
+   "title": "Minimalism is Getting Absurd: Updating Dieter Rams' 10 Principles",
+   "channel": "Design Theory",
+   "url": "https://www.youtube.com/watch?v=p5InhRf2JrU",
+   "minutes": 24,
+   "year": 2023,
+   "why": "An industrial designer revisits Rams' ten principles and argues where minimalism has drifted into a style for its own sake; keep the Vitsœ page open to compare his updates with the originals."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "NN/g UX Podcast",
+   "episode": "1. What is UX, anyway? (feat. Dr. Jakob Nielsen, the usability guru)",
+   "url": "https://podcasts.apple.com/gb/podcast/1-what-is-ux-anyway-feat-dr-jakob-nielsen-the-usability-guru/id1527196035?i=1000487736926",
+   "minutes": 17,
+   "year": 2020,
+   "why": "Jakob Nielsen explains what user experience covers and how the field has changed since NN/g started in 1998; listen for how far beyond the screen he draws the boundary."
+  },
+  {
+   "show": "Design Better",
+   "episode": "Barry Katz: The history and philosophy of design in Silicon Valley and beyond",
+   "url": "https://podcasts.apple.com/gb/podcast/barry-katz-the-history-and-philosophy-of-design/id1266839739?i=1000639102241",
+   "minutes": 58,
+   "year": 2023,
+   "why": "A design historian on when design became part of how technology companies work, and where the familiar friction between designers and engineers comes from."
+  }
+ ],
+ "reads": [
+  {
+   "title": "The Definition of User Experience (UX)",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/definition-user-experience/",
+   "minutes": 2,
+   "free": true,
+   "why": "Don Norman and Jakob Nielsen's short definition; read it for the distinction it draws between the whole experience and the user interface, which is the core idea of this lesson."
+  },
+  {
+   "title": "The power of good design",
+   "source": "Vitsœ",
+   "url": "https://www.vitsoe.com/gb/about/good-design",
+   "minutes": 3,
+   "free": true,
+   "why": "Dieter Rams' ten principles for good design, one short paragraph each, ending with 'less, but better'; test your current product against each one."
+  },
+  {
+   "title": "Meet the Elements",
+   "source": "Jesse James Garrett, The Elements of User Experience (free sample chapter, PDF)",
+   "url": "http://www.jjg.net/elements/pdf/elements_ch02.pdf",
+   "minutes": 20,
+   "free": true,
+   "why": "The chapter that introduces the five planes, from strategy at the bottom to surface at the top; the diagrams are the source of the UX planes figure in this lesson."
+  }
+ ]
+}

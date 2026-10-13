@@ -1,0 +1,65 @@
+{
+ "lesson": "taste",
+ "videos": [
+  {
+   "title": "Why He's the Most Trusted Man in Design",
+   "channel": "Tommy Geoco",
+   "url": "https://www.youtube.com/watch?v=mD3Q2fYmaMA",
+   "minutes": 21,
+   "year": 2025,
+   "why": "A short documentary about a designer known for spotting good work early, and the curation habits behind his eye."
+  },
+  {
+   "title": "Outcome-Oriented Design: The Era of AI Design",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=orvtAMGBgPE",
+   "minutes": 4,
+   "year": 2026,
+   "why": "How design work shifts in the AI era, from drawing single screens to defining adaptive frameworks that respond to each person's goals."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Dive Club",
+   "episode": "Sara Vienna - Taste, Meaning, and How to Stand Out in an AI world",
+   "url": "https://podcasts.apple.com/gb/podcast/sara-vienna-taste-meaning-and-how-to-stand-out-in-an-ai-world/id1686414242?i=1000725274433",
+   "minutes": 63,
+   "year": 2025,
+   "why": "Metalab's chief design officer on design that makes people feel something, and on keeping the heartbeat of a brand as AI reshapes the work."
+  },
+  {
+   "show": "Lenny's Podcast",
+   "episode": "The design process is dead. Here’s what’s replacing it. | Jenny Wen (head of design at Claude)",
+   "url": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+   "minutes": 77,
+   "year": 2026,
+   "why": "The design lead for Claude on why the classic discover, mock and iterate process is becoming obsolete, and what a designer's day at Anthropic looks like."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Taste for Makers",
+   "source": "Paul Graham",
+   "url": "https://paulgraham.com/taste.html",
+   "minutes": 15,
+   "free": true,
+   "why": "A clear argument that good taste is real and can be learned, with a list of what good design tends to have in common across fields."
+  },
+  {
+   "title": "Good design",
+   "source": "Vitsœ (Dieter Rams)",
+   "url": "https://www.vitsoe.com/gb/about/good-design",
+   "minutes": 5,
+   "free": true,
+   "why": "Dieter Rams' ten principles of good design, short enough to reread whenever you judge your own work."
+  },
+  {
+   "title": "Improving frontend design through Skills",
+   "source": "Claude by Anthropic",
+   "url": "https://claude.com/resources/articles/improving-frontend-design-through-skills",
+   "minutes": 12,
+   "free": true,
+   "why": "Why AI coding tools drift towards a generic look and how to steer them with specific guidance on typography, colour, motion and backgrounds."
+  }
+ ]
+}

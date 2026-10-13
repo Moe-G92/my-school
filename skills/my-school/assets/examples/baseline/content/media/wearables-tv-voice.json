@@ -1,0 +1,57 @@
+{
+ "lesson": "wearables-tv-voice",
+ "videos": [
+  {
+   "title": "Introduction to UX Design on Wear OS",
+   "channel": "Google Design",
+   "url": "https://www.youtube.com/watch?v=fZpVlbzlvuY",
+   "minutes": 7,
+   "year": 2023,
+   "why": "How watch design differs from phone design, why glanceability matters for interactions that last only seconds, and which watch surfaces to design for."
+  },
+  {
+   "title": "\"Designing Voice User Interfaces\" with Cathy Pearl from Google",
+   "channel": "Design Career Network",
+   "url": "https://www.youtube.com/watch?v=RdCmMMwaFRs",
+   "minutes": 28,
+   "year": 2018,
+   "why": "The author of Designing Voice User Interfaces explains conversation design and best practices for systems people talk to."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Voice Tech Podcast",
+   "episode": "Conversation Design Mastery - Hans van Dam, Robocopy",
+   "url": "https://podcasts.apple.com/gb/podcast/conversation-design-mastery-hans-van-dam-robocopy/id1355439088?i=1000461847930",
+   "minutes": 50,
+   "year": 2020,
+   "why": "A trainer of conversation designers explains what the job involves and what you need to consider when an interface has no screen."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Designing for watchOS",
+   "source": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-watchos",
+   "minutes": 6,
+   "free": true,
+   "why": "The traits of a wrist display (tiny screen, raised for a glance, Digital Crown for input) and the best practices that follow from them."
+  },
+  {
+   "title": "Designing for tvOS",
+   "source": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-tvos",
+   "minutes": 6,
+   "free": true,
+   "why": "Designing for a large screen seen from 8 feet or more and controlled with a remote, the core of ten-foot interface design."
+  },
+  {
+   "title": "Should you use Alexa?",
+   "source": "Amazon Alexa Design Guide",
+   "url": "https://developer.amazon.com/en-US/alexa/alexa-haus/design-principles",
+   "minutes": 8,
+   "free": true,
+   "why": "When voice is the right way to do a task and when it is not, plus five principles of good voice design (natural, brief, contextual, multimodal and trustworthy)."
+  }
+ ]
+}

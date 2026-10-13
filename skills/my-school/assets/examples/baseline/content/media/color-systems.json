@@ -1,0 +1,65 @@
+{
+ "lesson": "color-systems",
+ "videos": [
+  {
+   "title": "How I make UI color palettes",
+   "channel": "UX Tools",
+   "url": "https://www.youtube.com/watch?v=yYwEnLYT55c",
+   "minutes": 9,
+   "year": 2022,
+   "why": "A five-step method from one starting colour to a full UI palette; the shades step at 4:18 is the same tint and shade scale lab-palette generates, and the neutrals step at 6:07 is the part people skip."
+  },
+  {
+   "title": "The Easy Way to Pick UI Colors",
+   "channel": "Sajid",
+   "url": "https://www.youtube.com/watch?v=vvPklRN0Tco",
+   "minutes": 10,
+   "year": 2025,
+   "why": "Sajid argues colour is the easiest part of UI once you have a simple method, and shows his; compare it step by step with the UX Tools method and keep whichever you will actually use."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Complementary",
+   "episode": "15: Color with Lukas Oppermann",
+   "url": "https://podcasts.apple.com/gb/podcast/15-color-with-lukas-oppermann/id1671376839?i=1000625055606",
+   "minutes": 55,
+   "year": 2023,
+   "why": "A long conversation about colour in product interfaces with guest Lukas Oppermann; listen for the habits working designers use when one palette has to cover a whole product."
+  },
+  {
+   "show": "Design Notes",
+   "episode": "Dark Theme with KAYAK: How Dark Mode Revolutionized a Brand's Approach to Color (2020 Material Design Awards)",
+   "url": "https://podcasts.apple.com/gb/podcast/dark-theme-with-kayak-how-dark-mode-revolutionized/id1040955947?i=1000517918116",
+   "minutes": 21,
+   "year": 2021,
+   "why": "How building a dark theme forced the KAYAK team to rethink their whole colour system; a real case for defining colours by role instead of by hex value."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Building Your Color Palette",
+   "source": "Refactoring UI",
+   "url": "https://refactoringui.com/previews/building-your-color-palette",
+   "minutes": 5,
+   "free": true,
+   "why": "Why five hex codes are not a palette, and why you need 8 to 10 shades of grey plus a range for each primary and accent colour; the clearest short case for tint and shade scales."
+  },
+  {
+   "title": "Designing accessible color systems",
+   "source": "Stripe",
+   "url": "https://stripe.com/blog/accessible-color-systems",
+   "minutes": 8,
+   "free": true,
+   "why": "How Stripe rebuilt its palette with a perceptual colour model because HSL lightness is misleading across hues; explains why a blue and a yellow at the 'same' lightness can fail contrast differently."
+  },
+  {
+   "title": "Color roles",
+   "source": "Material Design 3",
+   "url": "https://m3.material.io/styles/color/roles",
+   "minutes": 10,
+   "free": true,
+   "why": "Google's 26 colour roles (primary, surface, outline, the 'on' colours for text on top of fills, and so on); the same role-based thinking you practise in lab-tokens."
+  }
+ ]
+}

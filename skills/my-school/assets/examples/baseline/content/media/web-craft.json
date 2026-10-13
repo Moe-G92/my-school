@@ -1,0 +1,65 @@
+{
+ "lesson": "web-craft",
+ "videos": [
+  {
+   "title": "7 UI/UX mistakes that SCREAM you’re a beginner",
+   "channel": "Kole Jain",
+   "url": "https://www.youtube.com/watch?v=AH_ugxmLeUM",
+   "minutes": 7,
+   "year": 2025,
+   "why": "Common slips such as overused effects, uneven spacing, inconsistent components, awkward icons and missing feedback, each with a fix that does not need a redesign."
+  },
+  {
+   "title": "Steve Schoger | Refactoring UI | CSS Day 2019",
+   "channel": "Web Conferences Amsterdam",
+   "url": "https://www.youtube.com/watch?v=7Z9rrryIOC4",
+   "minutes": 44,
+   "year": 2019,
+   "why": "A designer takes a weak interface and polishes it live, naming each small change as he goes, so you learn to see what makes a screen look finished."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Full Stack Radio",
+   "episode": "74: Steve Schoger - Tactical Design Advice for Developers",
+   "url": "https://fullstackradio.com/74",
+   "minutes": 67,
+   "year": 2017,
+   "why": "Practical advice for developers on fonts, colour, designing in greyscale first and making things look professional without graphic design training."
+  },
+  {
+   "show": "Dive Club",
+   "episode": "Josh Puckett - Crafting interfaces with uncommon care",
+   "url": "https://www.dive.club/deep-dives/josh-puckett",
+   "minutes": 54,
+   "year": 2026,
+   "why": "A designer with two decades of product work on what taking uncommon care over an interface looks like in practice."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Web Interface Guidelines",
+   "source": "Vercel",
+   "url": "https://vercel.com/design/guidelines",
+   "minutes": 15,
+   "free": true,
+   "why": "A long, specific checklist of interaction, layout, content and performance details, ideal to run against a site before launch or to paste into an AI tool."
+  },
+  {
+   "title": "Web Vitals",
+   "source": "web.dev",
+   "url": "https://web.dev/articles/vitals",
+   "minutes": 10,
+   "free": true,
+   "why": "The three measures Google uses for how fast and stable a page feels, so you can check that polish does not cost speed."
+  },
+  {
+   "title": "Refactoring UI",
+   "source": "Adam Wathan and Steve Schoger",
+   "url": "https://refactoringui.com/",
+   "minutes": 240,
+   "free": false,
+   "why": "A paid book of specific design tactics explained from a developer's point of view, by the team behind Tailwind CSS; two sample chapters are free."
+  }
+ ]
+}

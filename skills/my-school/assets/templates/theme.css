@@ -1,0 +1,44 @@
+/* theme.css: this school's visual identity. Overrides the engine's neutral tokens.
+   Layout concept: <one line describing the layout idea grounded in the subject>.
+   Rules: define every token in :root (light), redefine them in BOTH dark blocks, keep text pairs at 4.5:1 and
+   --field (input borders) and --sel (focus) at 3:1 against --surface and --paper. check.mjs audits this. */
+:root {
+  --paper: #F6F6F4;       /* page background */
+  --surface: #FFFFFF;     /* panels, cards, inputs */
+  --sunk: #ECECE8;        /* wells, tags, segmented controls */
+  --ink: #17181A;         /* body text, primary buttons */
+  --ink-2: #45474D;       /* secondary text */
+  --ink-3: #5D6068;       /* captions, meta (must still pass 4.5:1 on paper, surface and sunk) */
+  --rule: #DCDCD7;        /* dividers */
+  --rule-strong: #B7B8B3; /* stronger dividers, outlines */
+  --field: #85878C;       /* input borders: 3:1 */
+  --accent: #2348C4;      /* links and interactive accents */
+  --accent-soft: #E5EAFB;
+  --sel: #2F5FFF;         /* focus rings, selection, sliders */
+  --spec: #B5321F;        /* the signature accent: section numbers, annotations, labels. Use rarely. */
+  --spec-soft: #FBE6E1;
+  --on-ink: #F6F6F4;      /* text on --ink buttons */
+  /* part colours: one per part of the path (up to 8), used as swatches */
+  --p1: #3B414B; --p2: #2F5BEA; --p3: #D2542A; --p4: #12807A; --p5: #6D4BD8; --p6: #B98208; --p7: #C2185B; --p8: #4F7A28;
+  --f-display: Georgia, serif;          /* a characterful display face, used with restraint */
+  --f-body: system-ui, sans-serif;      /* a highly readable body face */
+  --f-mono: ui-monospace, monospace;    /* data, code, measurements */
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0F1012; --surface: #17181B; --sunk: #1E1F23; --ink: #EDEDEA; --ink-2: #BDBEBA; --ink-3: #9C9D99;
+    --rule: #2B2C30; --rule-strong: #42444A; --field: #6D6F75; --accent: #93AEFF; --accent-soft: #1C2541; --sel: #7099FF;
+    --spec: #FF8B76; --spec-soft: #3A1F1A; --on-ink: #0F1012;
+    --p1: #8E96A3; --p2: #6F93FF; --p3: #F07C55; --p4: #3FB8AE; --p5: #9C83F0; --p6: #E0AA35; --p7: #FF7DB0; --p8: #8DC25E;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0F1012; --surface: #17181B; --sunk: #1E1F23; --ink: #EDEDEA; --ink-2: #BDBEBA; --ink-3: #9C9D99;
+  --rule: #2B2C30; --rule-strong: #42444A; --field: #6D6F75; --accent: #93AEFF; --accent-soft: #1C2541; --sel: #7099FF;
+  --spec: #FF8B76; --spec-soft: #3A1F1A; --on-ink: #0F1012;
+  --p1: #8E96A3; --p2: #6F93FF; --p3: #F07C55; --p4: #3FB8AE; --p5: #9C83F0; --p6: #E0AA35; --p7: #FF7DB0; --p8: #8DC25E;
+  color-scheme: dark;
+}
+/* Signature styles for the hero (signature.js) and wordmark go below. Keep motion one-off and never behind body text. */
+.hero-name { color: var(--ink); }

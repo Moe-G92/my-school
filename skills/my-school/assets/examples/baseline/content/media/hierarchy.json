@@ -1,0 +1,57 @@
+{
+ "lesson": "hierarchy",
+ "videos": [
+  {
+   "title": "Visual Hierarchy",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=8OTbyWndY9M",
+   "minutes": 4,
+   "year": 2022,
+   "why": "Colour and contrast, size, and grouping, the three main levers, in under four minutes; listen for how each one answers a different question for the reader (what matters most, and what belongs together)."
+  },
+  {
+   "title": "Refactoring UI: Bad About",
+   "channel": "Steve Schoger",
+   "url": "https://www.youtube.com/watch?v=S6-q5BheEYU",
+   "minutes": 14,
+   "year": 2018,
+   "why": "Steve Schoger redesigns a real topic page step by step, reorganising content, building a hierarchy and fixing the type; pause before each change and guess what he will de-emphasise next."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Full Stack Radio",
+   "episode": "74: Steve Schoger - Tactical Design Advice for Developers",
+   "url": "https://fullstackradio.com/74",
+   "minutes": 67,
+   "year": 2017,
+   "why": "Five practical habits for developers designing their own products; listen for 'designing in greyscale', which forces you to build hierarchy from size, weight and spacing before colour can rescue it."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Visual Hierarchy in UX: Definition",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/visual-hierarchy-ux-definition/",
+   "minutes": 7,
+   "free": true,
+   "why": "Colour, scale and grouping with real examples, plus a section on the squint test; do the squint test on your own home page straight after reading."
+  },
+  {
+   "title": "F-Shaped Pattern of Reading: Misunderstood, But Still Relevant",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/",
+   "minutes": 10,
+   "free": true,
+   "why": "Corrects a common myth by showing that people fall into the F-pattern when a page lacks structure, and that it works against them; read the alternatives, such as the layer-cake pattern that clear headings produce."
+  },
+  {
+   "title": "Labels are a last resort",
+   "source": "Refactoring UI",
+   "url": "https://refactoringui.com/previews/labels-are-a-last-resort",
+   "minutes": 2,
+   "free": true,
+   "why": "A two-minute lesson on why 'Label: value' layouts flatten hierarchy, and how '12 left in stock' beats 'In stock: 12'; check your own dashboards for this pattern."
+  }
+ ]
+}

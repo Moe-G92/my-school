@@ -1,0 +1,65 @@
+{
+ "lesson": "layout-grid",
+ "videos": [
+  {
+   "title": "The missing guide to grids",
+   "channel": "Flux Academy",
+   "url": "https://www.youtube.com/watch?v=wIabVp0Hh8U",
+   "minutes": 24,
+   "year": 2022,
+   "why": "Sets up column, modular and combined grids, then from 16:13 places real content on them and, at 21:44, shows how to keep a gridded layout visually interesting; pause and copy one layout onto your own page."
+  },
+  {
+   "title": "Why You Should Use a Grid for Designing Layouts",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=zTVH9ryf5Xs",
+   "minutes": 3,
+   "year": 2019,
+   "why": "The short case for grids from the reader's side, since aligned layouts are faster to scan and use; a far better argument to have in your head than 'it looks tidy'."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Design Details",
+   "episode": "386: Designing with Grid Systems",
+   "url": "https://podcasts.apple.com/gb/podcast/386-designing-with-grid-systems/id947191070?i=1000510465850",
+   "minutes": 25,
+   "year": 2021,
+   "why": "Two product designers on when grid systems break down, including what to do when the grid does not divide neatly into real screen widths."
+  },
+  {
+   "show": "Complementary",
+   "episode": "16: Layout",
+   "url": "https://podcasts.apple.com/gb/podcast/16-layout/id1671376839?i=1000626632184",
+   "minutes": 53,
+   "year": 2023,
+   "why": "Anthony Hobday and Katie Langerman, both working interface designers, talk through layout decisions in product UI, including how to align main content next to a sidebar."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Using Grids in Interface Designs",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/using-grids-in-interface-designs/",
+   "minutes": 7,
+   "free": true,
+   "why": "Defines columns, gutters and margins and the three common grid types (column, modular, hierarchical); the vocabulary matches the grid anatomy figure."
+  },
+  {
+   "title": "Grids & spacing",
+   "source": "Material Design 3",
+   "url": "https://m3.material.io/foundations/layout/grids-spacing/grids",
+   "minutes": 5,
+   "free": true,
+   "why": "How Google's system changes column count as the screen grows and uses 'rulers' to keep titles and content aligned; compare it with what happens when you widen the lab-grid layout."
+  },
+  {
+   "title": "Grid",
+   "source": "web.dev, Learn CSS",
+   "url": "https://web.dev/learn/css/grid",
+   "minutes": 22,
+   "free": true,
+   "why": "How a design grid becomes real CSS Grid code, with tracks, gaps and named areas; skim the diagrams so you can describe a layout precisely to an AI tool."
+  }
+ ]
+}

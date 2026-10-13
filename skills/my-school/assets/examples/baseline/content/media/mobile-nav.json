@@ -1,0 +1,57 @@
+{
+ "lesson": "mobile-nav",
+ "videos": [
+  {
+   "title": "WWDC22: Explore navigation design for iOS | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=Kd02qR_LyA0",
+   "minutes": 26,
+   "year": 2022,
+   "why": "Apple's guide to familiar navigation structures such as tab bars and modal views, with best practices and the common pitfalls of each."
+  },
+  {
+   "title": "User Flow Diagram Basics",
+   "channel": "Jesse Showalter",
+   "url": "https://www.youtube.com/watch?v=cvYhuowazh0",
+   "minutes": 10,
+   "year": 2021,
+   "why": "How to sketch the path someone takes through your app as a simple diagram before you design any screens."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Getting2Alpha",
+   "episode": "Samuel Hulick: User Onboarding",
+   "url": "https://podcasts.apple.com/gb/podcast/samuel-hulick-user-onboarding/id1047865038?i=1000627884600",
+   "minutes": 38,
+   "year": 2023,
+   "why": "The person behind UserOnboard, known for teardowns of popular apps' first-run experiences, on what makes the first flow through a product work."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Basic Patterns for Mobile Navigation",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/mobile-navigation-patterns/",
+   "minutes": 9,
+   "free": true,
+   "why": "The main mobile navigation patterns side by side (tab bars, hamburger menus, navigation hubs and more) with the trade-offs of each."
+  },
+  {
+   "title": "Tab bars",
+   "source": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/tab-bars",
+   "minutes": 6,
+   "free": true,
+   "why": "Apple's best practices for the most common iPhone navigation pattern, including what belongs in a tab and what does not."
+  },
+  {
+   "title": "Mobile-App Onboarding: An Analysis of Components and Techniques",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/mobile-app-onboarding/",
+   "minutes": 12,
+   "free": true,
+   "why": "Breaks onboarding into its three usual parts (feature promotion, customisation and instructions) and argues for skipping it whenever possible."
+  }
+ ]
+}

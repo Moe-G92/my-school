@@ -1,0 +1,345 @@
+[
+ {
+  "title": "Books",
+  "items": [
+   {
+    "title": "The Design of Everyday Things (Revised and Expanded Edition)",
+    "url": "https://jnd.org/books/the-design-of-everyday-things-revised-and-expanded-edition/",
+    "by": "Don Norman",
+    "year": 2013,
+    "why": "The book that made affordance, signifier and feedback part of every designer's vocabulary, and the habit of blaming the design before the user."
+   },
+   {
+    "title": "Don't Make Me Think, Revisited",
+    "url": "https://sensible.com/dont-make-me-think/",
+    "by": "Steve Krug",
+    "year": 2014,
+    "why": "A short, funny book on web and mobile usability that you can read in an evening and use the next morning."
+   },
+   {
+    "title": "The Elements of User Experience",
+    "url": "http://www.jjg.net/elements/",
+    "by": "Jesse James Garrett",
+    "year": null,
+    "why": "The five planes model, from strategy to surface, which helps you see which layer a problem really lives on."
+   },
+   {
+    "title": "Refactoring UI",
+    "url": "https://refactoringui.com/",
+    "by": "Adam Wathan and Steve Schoger",
+    "year": 2018,
+    "why": "Specific visual design tactics explained from a developer's point of view, ideal for someone who builds first and designs second."
+   },
+   {
+    "title": "Practical UI",
+    "url": "https://www.practical-ui.com/",
+    "by": "Adham Dannaway",
+    "year": null,
+    "why": "Quick, actionable rules for interface design with little theory, from a product designer with nearly two decades of UI work."
+   },
+   {
+    "title": "Laws of UX (2nd edition)",
+    "url": "https://lawsofux.com/book/",
+    "by": "Jon Yablonski",
+    "year": 2024,
+    "why": "The psychology behind interfaces in book form; the second edition adds more on the psychology behind each principle and updated examples."
+   },
+   {
+    "title": "Thinking with Type (3rd edition)",
+    "url": "https://papress.com/products/thinking-with-type-3-edition",
+    "by": "Ellen Lupton",
+    "year": 2024,
+    "why": "A clear, visual guide to letters, text and grids, from typefaces and kerning to how paragraphs should be spaced and aligned."
+   },
+   {
+    "title": "Interaction of Color (50th Anniversary Edition)",
+    "url": "https://yalebooks.yale.edu/book/9780300179354/interaction-of-color/",
+    "by": "Josef Albers",
+    "year": 2013,
+    "why": "A classic set of exercises showing that a colour changes with its neighbours, the root of most palette and contrast surprises."
+   },
+   {
+    "title": "Writing Is Designing",
+    "url": "https://rosenfeldmedia.com/books/writing-is-designing/",
+    "by": "Michael J. Metts and Andy Welfle",
+    "year": 2020,
+    "why": "How to give people clarity through interface words, test them and work with your team on them as part of the design."
+   },
+   {
+    "title": "Mismatch: How Inclusion Shapes Design",
+    "url": "https://mitpress.mit.edu/9780262539487/mismatch/",
+    "by": "Kat Holmes",
+    "year": 2018,
+    "why": "A short book on how designs exclude people by accident, and how designing with excluded people produces better products for everyone."
+   },
+   {
+    "title": "Designing Interface Animation",
+    "url": "https://rosenfeldmedia.com/books/designing-interface-animation/",
+    "by": "Val Head",
+    "year": 2016,
+    "why": "A crash course in motion for web designers, on using animation for feedback, orientation, attention and cause and effect."
+   },
+   {
+    "title": "Atomic Design",
+    "url": "https://atomicdesign.bradfrost.com/",
+    "by": "Brad Frost",
+    "year": 2016,
+    "why": "A way to build interfaces from small parts up to full pages, free to read online, and a widely used introduction to thinking in design systems."
+   },
+   {
+    "title": "Information Dashboard Design (2nd edition)",
+    "url": "https://www.perceptualedge.com/library.php",
+    "by": "Stephen Few",
+    "year": 2013,
+    "why": "Stephen Few's detailed guide to the common problems in dashboard design and the best practices that fix them, with many examples."
+   },
+   {
+    "title": "The Visual Display of Quantitative Information (2nd edition)",
+    "url": "https://www.edwardtufte.com/book/the-visual-display-of-quantitative-information/",
+    "by": "Edward Tufte",
+    "year": 2001,
+    "why": "The classic on charts and tables, where ideas such as the data-ink ratio and chartjunk come from."
+   }
+  ]
+ },
+ {
+  "title": "YouTube channels",
+  "items": [
+   {
+    "title": "NN/g (Nielsen Norman Group)",
+    "url": "https://www.youtube.com/@NNgroup",
+    "why": "Short, research-based videos on almost every UX topic, most under five minutes; the safest first stop when you want the evidence behind a design rule."
+   },
+   {
+    "title": "Apple Developer",
+    "url": "https://www.youtube.com/@AppleDeveloper",
+    "why": "The WWDC design sessions, such as the yearly design principles talks, explain how Apple's own designers think; skip the coding sessions and search for 'design'."
+   },
+   {
+    "title": "Figma",
+    "url": "https://www.youtube.com/@Figma",
+    "why": "Config conference talks and the free Introduction to design systems course; the best source for how working teams build components and tokens."
+   },
+   {
+    "title": "Flux Academy",
+    "url": "https://www.youtube.com/@FluxAcademy",
+    "why": "Long, well-made lessons on web design fundamentals such as grids, hierarchy, colour and type, aimed at people who build sites for real clients."
+   },
+   {
+    "title": "Sajid",
+    "url": "https://www.youtube.com/@whosajid",
+    "why": "Opinionated, practical UI videos on spacing, colour, type and depth, each one a method you can apply to a screen the same day."
+   },
+   {
+    "title": "Pimp my Type",
+    "url": "https://www.youtube.com/@PimpmyType",
+    "why": "Oliver Schöndorfer's channel on typography for web and product interfaces, from line length to font pairing to contrast; clear and grounded in real projects."
+   },
+   {
+    "title": "Linus Boman",
+    "url": "https://www.youtube.com/@LinusBoman",
+    "why": "Thoughtful video essays on typography, logos and legibility; the one to watch when you want to train your eye for letterforms and the history behind them."
+   },
+   {
+    "title": "Kevin Powell",
+    "url": "https://www.youtube.com/@KevinPowell",
+    "why": "A patient, clear CSS teacher with a good eye for design; useful when you need to understand what your AI tool's CSS is actually doing."
+   },
+   {
+    "title": "Learn UI Design",
+    "url": "https://www.youtube.com/@learnuidesign",
+    "why": "Erik Kennedy's practical UI lessons on colour, typography, layout and process; the video side of the Learn UI Design blog used in the colour and spacing lessons."
+   },
+   {
+    "title": "The Futur",
+    "url": "https://www.youtube.com/@thefutur",
+    "why": "Mostly about the business of creative work, with some excellent short design theory lessons on colour and type tucked in; search the channel for those."
+   },
+   {
+    "title": "Mizko",
+    "url": "https://www.youtube.com/@Mizko",
+    "why": "Figma-based tutorials on spacing systems, type scales, grids and design systems; good when you want to see a system built step by step."
+   }
+  ]
+ },
+ {
+  "title": "Podcasts",
+  "items": [
+   {
+    "title": "NN/G UX Podcast",
+    "url": "https://podcasts.apple.com/gb/podcast/nn-g-ux-podcast/id1527196035",
+    "why": "Nielsen Norman Group's researchers and guests on one UX topic per episode, from icons to interviews; reliable and free of hype."
+   },
+   {
+    "title": "Design Better",
+    "url": "https://podcasts.apple.com/gb/podcast/design-better/id1266839739",
+    "why": "Long interviews with designers, researchers and authors such as Steve Portigal and Jake Knapp; strong on process and the thinking behind good products."
+   },
+   {
+    "title": "Complementary",
+    "url": "https://podcasts.apple.com/gb/podcast/complementary/id1671376839",
+    "why": "Two working interface designers, Anthony Hobday and Katie Langerman, take one interface topic per episode (layout, colour, forms, materials); the closest match to this course."
+   },
+   {
+    "title": "Dive Club",
+    "url": "https://podcasts.apple.com/gb/podcast/dive-club/id1686414242",
+    "why": "Ridd's interviews with today's product designers on craft, tools and design engineering; good for hearing how current product teams actually work."
+   },
+   {
+    "title": "99% Invisible",
+    "url": "https://podcasts.apple.com/gb/podcast/99-invisible/id394775318",
+    "why": "Stories about the design of everyday things, from doors to flags to cities; builds the habit of noticing design decisions everywhere."
+   },
+   {
+    "title": "Design Matters with Debbie Millman",
+    "url": "https://podcasts.apple.com/gb/podcast/design-matters-with-debbie-millman/id328074695",
+    "why": "One of the longest-running design interview shows, with type designers, graphic designers and writers; better for philosophy and careers than for interface technique."
+   },
+   {
+    "title": "Design Notes",
+    "url": "https://podcasts.apple.com/gb/podcast/design-notes/id1040955947",
+    "why": "Hosted by a Google UX designer, with many episodes on the making of Material Design and award-winning apps alongside interviews from wider creative fields."
+   },
+   {
+    "title": "Twenty Thousand Hertz",
+    "url": "https://podcasts.apple.com/gb/podcast/twenty-thousand-hertz/id1171270672",
+    "why": "Stories about designed sound, from alert tones to car clicks; the best way to start thinking about audio feedback in the products you build."
+   },
+   {
+    "title": "Awkward Silences",
+    "url": "https://podcasts.apple.com/gb/podcast/awkward-silences/id1444694886",
+    "why": "A show about user research from the team at User Interviews; useful each time you plan to talk to your users and want better questions."
+   },
+   {
+    "title": "Rosenfeld Review Podcast",
+    "url": "https://podcasts.apple.com/gb/podcast/rosenfeld-review-podcast/id970479151",
+    "why": "Lou Rosenfeld, co-author of the classic information architecture book, talks with UX authors such as Steve Krug and Abby Covert; short and practical."
+   }
+  ]
+ },
+ {
+  "title": "Tools",
+  "items": [
+   {
+    "title": "WebAIM Contrast Checker",
+    "url": "https://webaim.org/resources/contrastchecker/",
+    "why": "Paste two colours and see at once whether they pass WCAG AA and AAA for normal text, large text and interface parts."
+   },
+   {
+    "title": "Who Can Use",
+    "url": "https://www.whocanuse.com/",
+    "why": "Shows how a colour pair looks to people with different kinds of colour blindness and low vision, and roughly how many people that affects."
+   },
+   {
+    "title": "Realtime Colors",
+    "url": "https://www.realtimecolors.com/",
+    "why": "Try a palette and fonts on a realistic web page, flip between light and dark, then export the colours as CSS and other formats. Free."
+   },
+   {
+    "title": "Huemint",
+    "url": "https://huemint.com/",
+    "why": "Generates colour palettes with machine learning and previews them on brand and website mockups."
+   },
+   {
+    "title": "OKLCH Color Picker & Converter",
+    "url": "https://oklch.com/",
+    "why": "Pick colours in OKLCH, where equal steps in lightness look equal to the eye, and convert them to the formats your code needs."
+   },
+   {
+    "title": "Accessible Palette",
+    "url": "https://accessiblepalette.com/",
+    "why": "Builds colour scales with consistent lightness and contrast across hues, so every shade at the same step behaves the same way."
+   },
+   {
+    "title": "Coolors",
+    "url": "https://coolors.co/",
+    "why": "A fast palette generator for exploring combinations, locking the colours you like and shuffling the rest."
+   },
+   {
+    "title": "Typescale",
+    "url": "https://typescale.com/",
+    "why": "Choose a base size and ratio, preview the whole type scale with real fonts, and copy the CSS."
+   },
+   {
+    "title": "Utopia",
+    "url": "https://utopia.fyi/",
+    "why": "Generates fluid type and spacing scales that grow smoothly with the screen, with fewer breakpoints to manage."
+   },
+   {
+    "title": "Google Fonts",
+    "url": "https://fonts.google.com/",
+    "why": "A large library of free, open-licence typefaces with live previews, ready to use on the web."
+   },
+   {
+    "title": "Figma",
+    "url": "https://www.figma.com/",
+    "why": "The standard interface design tool, with a free Starter plan that is enough for sketching layouts and building a small component library."
+   },
+   {
+    "title": "Lucide",
+    "url": "https://lucide.dev/",
+    "why": "A consistent open-source icon set with matching stroke widths and corners, easy to use in code."
+   },
+   {
+    "title": "Phosphor Icons",
+    "url": "https://phosphoricons.com/",
+    "why": "A flexible icon family in several weights, useful when you need icons to match the weight of your type."
+   },
+   {
+    "title": "Mobbin",
+    "url": "https://mobbin.com/",
+    "why": "A searchable library of real screens and flows from shipped apps and websites, free to join, for seeing how others solve the same pattern."
+   },
+   {
+    "title": "Laws of UX",
+    "url": "https://lawsofux.com/",
+    "why": "Illustrated cards for the psychology principles behind interfaces, handy as a quick reference while you design."
+   },
+   {
+    "title": "cubic-bezier.com",
+    "url": "https://cubic-bezier.com/",
+    "why": "Drag the handles of an easing curve, compare it against standard easings and copy the value into your CSS."
+   }
+  ]
+ },
+ {
+  "title": "Inspiration",
+  "items": [
+   {
+    "title": "Land-book",
+    "url": "https://land-book.com/",
+    "why": "A hand-picked, daily-updated gallery of websites you can filter by page type, such as landing, pricing or about pages."
+   },
+   {
+    "title": "Siteinspire",
+    "url": "https://www.siteinspire.com/",
+    "why": "A long-running showcase of well-crafted websites, filterable by style, type and subject."
+   },
+   {
+    "title": "SaaS Landing Page",
+    "url": "https://saaslandingpage.com/",
+    "why": "Landing, pricing, features and FAQ pages from software companies, useful when you are designing the same page for your own product."
+   },
+   {
+    "title": "Refero",
+    "url": "https://refero.design/",
+    "why": "Real product screens, flows and patterns from web and iOS apps, organised by page type such as onboarding, pricing and dashboards."
+   },
+   {
+    "title": "Awwwards",
+    "url": "https://www.awwwards.com/",
+    "why": "Award-winning, often experimental websites, best for stretching your eye on type, layout and motion more than for copying patterns."
+   },
+   {
+    "title": "Minimal Gallery",
+    "url": "https://minimal.gallery/",
+    "why": "Hand-picked websites with restrained, minimal design, good for studying space, type and hierarchy with few distractions."
+   },
+   {
+    "title": "Dark Design",
+    "url": "https://www.dark.design/",
+    "why": "A gallery of dark-themed websites, helpful for seeing how good sites handle contrast and colour in dark mode."
+   }
+  ]
+ }
+]

@@ -1,0 +1,65 @@
+{
+ "lesson": "patterns",
+ "videos": [
+  {
+   "title": "5 Common UI Design Patterns | Part 1",
+   "channel": "Jesse Showalter",
+   "url": "https://www.youtube.com/watch?v=X6RRjByY5Nk",
+   "minutes": 6,
+   "year": 2022,
+   "why": "Accordions, dropdowns, cards, breadcrumbs and the hamburger menu, each with when it helps; pause after each one and find a real example in an app you use."
+  },
+  {
+   "title": "Tabs vs. Accordions: When to Use Each",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=7y6sH93QlgI",
+   "minutes": 3,
+   "year": 2024,
+   "why": "A clean rule of thumb, tabs for a few long sections and accordions for many short ones, plus what changes on mobile at 2:02; a model for choosing between two similar patterns."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Complementary",
+   "episode": "56: Navigation",
+   "url": "https://podcasts.apple.com/gb/podcast/56-navigation/id1671376839?i=1000704214928",
+   "minutes": 52,
+   "year": 2025,
+   "why": "Two working interface designers talk through navigation patterns, the most common family of patterns in any app; compare what they describe with the navigation in your own product."
+  },
+  {
+   "show": "UX Podcast",
+   "episode": "#150 Dark Patterns with Harry Brignull",
+   "url": "https://uxpodcast.com/150-dark-patterns-harry-brignull/",
+   "minutes": 35,
+   "year": 2017,
+   "why": "The person who coined 'dark patterns' explains the familiar patterns that are used to trick people, and how to avoid them; the other side of the idea that familiar patterns help users."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Patterns",
+   "source": "GOV.UK Design System",
+   "url": "https://design-system.service.gov.uk/patterns/",
+   "minutes": 10,
+   "free": true,
+   "why": "Researched, tested patterns for asking for names, dates, addresses and passwords, checking answers and recovering from errors; open two or three and compare them with how your app does the same task."
+  },
+  {
+   "title": "Modal & Nonmodal Dialogs: When (& When Not) to Use Them",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/modal-nonmodal-dialog/",
+   "minutes": 12,
+   "free": true,
+   "why": "Modals interrupt and demand an action, so save them for information that truly needs attention; check every pop-up your AI tool has added against this article."
+  },
+  {
+   "title": "Jakob's Law",
+   "source": "Laws of UX",
+   "url": "https://lawsofux.com/jakobs-law/",
+   "minutes": 2,
+   "free": true,
+   "why": "The one-line reason patterns matter, because people spend most of their time on other sites and expect yours to work the same way; read the takeaways before you invent a new control."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "lesson": "laws",
+ "videos": [
+  {
+   "title": "The 4 Most Important Laws of UX Design",
+   "channel": "Jesse Showalter",
+   "url": "https://www.youtube.com/watch?v=eQGjV6_8t7I",
+   "minutes": 6,
+   "year": 2022,
+   "why": "A quick, visual run through four of the laws from lawsofux.com that come up most often in everyday interface work."
+  },
+  {
+   "title": "Laws of UX: Using Psychology to Design Better Products & Services",
+   "channel": "Proximity Lab",
+   "url": "https://www.youtube.com/watch?v=Qc5F07l1Fjs",
+   "minutes": 57,
+   "year": 2023,
+   "why": "The author of lawsofux.com walks through the core principles drawn from psychology and answers audience questions about applying them."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Developer Tea",
+   "episode": "Interview w/ Jon Yablonski (Part 1)",
+   "url": "https://podcasts.apple.com/gb/podcast/interview-w-jon-yablonski-part-1/id955596067?i=1000412412373",
+   "minutes": 40,
+   "year": 2018,
+   "why": "A developer who moved into design talks about why he collected these principles and how builders can apply them day to day."
+  },
+  {
+   "show": "Boagworld Show",
+   "episode": "How To Reduce Your User's Cognitive Load",
+   "url": "https://boagworld.com/season/22/episode/2205/",
+   "minutes": 58,
+   "year": 2018,
+   "why": "A UK show on cutting mental effort, including the habit of making every element on a screen justify its place, with a full transcript."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Laws of UX",
+   "source": "Jon Yablonski",
+   "url": "https://lawsofux.com/",
+   "minutes": 10,
+   "free": true,
+   "why": "One illustrated card per law with its origin and key takeaways, handy to keep open while you design."
+  },
+  {
+   "title": "Fitts's Law and Its Applications in UX",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/fitts-law/",
+   "minutes": 12,
+   "free": true,
+   "why": "What the formula actually predicts about size and distance, and how that turns into button sizes and placement."
+  },
+  {
+   "title": "Working Memory and External Memory",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/working-memory-external-memory/",
+   "minutes": 9,
+   "free": true,
+   "why": "Why short-term memory is so limited and how interfaces can hold information for people so they do not have to."
+  }
+ ]
+}

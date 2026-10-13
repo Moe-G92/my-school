@@ -1,0 +1,64 @@
+{
+ "lesson": "motion",
+ "videos": [
+  {
+   "title": "UX Animations",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=nV0ahPAxSbI",
+   "minutes": 4,
+   "year": 2021,
+   "why": "A four-minute demonstration of why animation timing matters, showing how both too slow and too fast make an interface harder to use."
+  },
+  {
+   "title": "Designing Meaningful Animation - Val Head - btconfDUS 2016",
+   "channel": "beyond tellerrand",
+   "url": "https://www.youtube.com/watch?v=OqvQhZ0bTYY",
+   "minutes": 43,
+   "year": 2016,
+   "why": "A longer talk on borrowing motion design principles such as timing, offsets and secondary action for interface decisions."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "UX Podcast",
+   "episode": "#133 Animation and Fairytale UX with Val Head & Per Axbom",
+   "url": "https://uxpodcast.com/133-animation-fairytale-ux-val-head-per-axbom/",
+   "year": 2016,
+   "why": "Two short interviews recorded at UXLx, with Val Head on animating interfaces and Per Axbom on when a little friction serves people better."
+  },
+  {
+   "show": "Rosenfeld Review Podcast",
+   "episode": "Animation for Better UX:  a Chat with Val Head",
+   "url": "https://rosenfeldreview.podbean.com/e/animation-for-better-ux-a-chat-with-val-head/",
+   "minutes": 22,
+   "year": 2016,
+   "why": "Val Head on how interface animation has changed since the Flash days into a real tool for better experiences, drawing on her book Designing Interface Animation."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Executing UX Animations: Duration and Motion Characteristics",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/animation-duration/",
+   "minutes": 10,
+   "free": true,
+   "why": "The practical numbers for how long transitions should last and which easing to use for elements entering and leaving the screen, with the reasons."
+  },
+  {
+   "title": "Great Animations",
+   "source": "Emil Kowalski",
+   "url": "https://emilkowal.ski/ui/great-animations",
+   "minutes": 6,
+   "free": true,
+   "why": "A design engineer's checklist for animations that feel fast and natural, with live demos you can poke at."
+  },
+  {
+   "title": "Designing Safer Web Animation For Motion Sensitivity",
+   "source": "A List Apart",
+   "url": "https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/",
+   "minutes": 12,
+   "free": true,
+   "why": "Which kinds of movement make some people feel ill, and how to offer a reduced-motion version without losing meaning."
+  }
+ ]
+}

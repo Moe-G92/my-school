@@ -1,0 +1,65 @@
+{
+ "lesson": "critique",
+ "videos": [
+  {
+   "title": "UX Design Critiques: 3 Tips for Effective Feedback",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=CBm9gdwshf8",
+   "minutes": 4,
+   "year": 2024,
+   "why": "Three habits for giving feedback with confidence, which are trusting that your view is useful, structuring what you say, and balancing strengths with problems."
+  },
+  {
+   "title": "Live design critique with the Figma design team - Noah Levin, Sara Culver, Kelly Li (Config 2021)",
+   "channel": "Figma",
+   "url": "https://www.youtube.com/watch?v=nu1yQay27pM",
+   "minutes": 31,
+   "year": 2021,
+   "why": "Watch a real product team critique one of its own features, from the quiet review time to the group discussion, so you can copy the format."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "97 UX Things",
+   "episode": "Remember the Four Questions of Critique (feat. Adam Connor)",
+   "url": "https://podcasts.apple.com/gb/podcast/remember-the-four-questions-of-critique-feat-adam-connor/id1571512643?i=1000541231404",
+   "minutes": 27,
+   "year": 2021,
+   "why": "The co-author of Discussing Design on good critique practice and the four questions at the heart of his approach."
+  },
+  {
+   "show": "Dive Club",
+   "episode": "Christophe Tauziet - Plaid’s culture of craft, tips for CRIT, and lessons from early Facebook",
+   "url": "https://podcasts.apple.com/gb/podcast/christophe-tauziet-plaids-culture-of-craft-tips-for/id1686414242?i=1000698256769",
+   "minutes": 55,
+   "year": 2025,
+   "why": "Plaid's head of design on running useful critiques, holding polish reviews and giving better design feedback."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Design Critiques: Encourage a Positive Culture to Improve Products",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/design-critiques/",
+   "minutes": 11,
+   "free": true,
+   "why": "How to set up and run a critique, with clear roles for presenter and reviewers and feedback that stays tied to the design's goals."
+  },
+  {
+   "title": "How we do design critiques at Figma",
+   "source": "Figma Blog",
+   "url": "https://www.figma.com/blog/design-critiques-at-figma/",
+   "minutes": 15,
+   "free": true,
+   "why": "Several critique formats a real team uses for different stages of work, which you can adapt even when your only reviewer is an AI tool."
+  },
+  {
+   "title": "How to Give and Receive Criticism",
+   "source": "Scott Berkun",
+   "url": "https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/",
+   "minutes": 18,
+   "free": true,
+   "why": "A classic essay on asking for the feedback you actually need and hearing hard criticism without getting defensive."
+  }
+ ]
+}

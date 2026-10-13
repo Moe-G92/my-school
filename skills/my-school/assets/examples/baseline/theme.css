@@ -1,0 +1,82 @@
+/* Baseline theme: cool paper, ink, selection blue and redline magenta. Archivo (wide) for display, Atkinson Hyperlegible for reading. */
+/* Layout: a designer's spec sheet. Left rail nav, a 68ch reading column, wide "benches" for labs.
+   Signature: redline/spec annotations (magenta) and typographic guidelines, used as real content. */
+:root {
+  --paper: #F5F6F8;
+  --surface: #FFFFFF;
+  --sunk: #ECEEF2;
+  --ink: #14161B;
+  --ink-2: #434956;
+  --ink-3: #5B6270;
+  --rule: #D8DCE3;
+  --rule-strong: #B4BAC5;
+  --field: #858B96;
+  --accent: #1D4ED8;
+  --accent-soft: #E4EBFE;
+  --sel: #2F6BFF;
+  --spec: #C2185B;
+  --spec-soft: #FBE4EE;
+  --good: #0F6E47;
+  --good-soft: #DCF2E7;
+  --warn: #855400;
+  --warn-soft: #FBEFD6;
+  --bad: #B3261E;
+  --bad-soft: #FCE4E1;
+  --on-ink: #F5F6F8;
+  --shadow-1: 0 1px 2px rgba(20, 22, 27, .06), 0 2px 8px rgba(20, 22, 27, .05);
+  --shadow-2: 0 2px 4px rgba(20, 22, 27, .06), 0 12px 32px rgba(20, 22, 27, .10);
+  --p1: #3B414B; --p2: #2F5BEA; --p3: #D2542A; --p4: #12807A; --p5: #6D4BD8; --p6: #B98208; --p7: #C2185B;
+  --f-display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --f-mono: "Atkinson Hyperlegible Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px; --s7: 48px; --s8: 64px; --s9: 96px;
+  --r-sm: 6px; --r-md: 10px; --r-lg: 14px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0E1014; --surface: #16191F; --sunk: #1D2027; --ink: #ECEEF2; --ink-2: #B9BFCA; --ink-3: #9AA1AD;
+    --rule: #2A2E37; --rule-strong: #414754; --field: #6B717C; --accent: #8FADFF; --accent-soft: #1B2643; --sel: #6E97FF;
+    --spec: #FF7DB0; --spec-soft: #3A1B29; --good: #63D6A0; --good-soft: #13291E; --warn: #F0C064; --warn-soft: #2E2413;
+    --bad: #FF8C82; --bad-soft: #351B19; --on-ink: #0E1014;
+    --shadow-1: 0 1px 2px rgba(0, 0, 0, .4); --shadow-2: 0 12px 32px rgba(0, 0, 0, .5);
+    --p1: #8E96A3; --p2: #6F93FF; --p3: #F07C55; --p4: #3FB8AE; --p5: #9C83F0; --p6: #E0AA35; --p7: #FF7DB0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0E1014; --surface: #16191F; --sunk: #1D2027; --ink: #ECEEF2; --ink-2: #B9BFCA; --ink-3: #9AA1AD;
+  --rule: #2A2E37; --rule-strong: #414754; --field: #6B717C; --accent: #8FADFF; --accent-soft: #1B2643; --sel: #6E97FF;
+  --spec: #FF7DB0; --spec-soft: #3A1B29; --good: #63D6A0; --good-soft: #13291E; --warn: #F0C064; --warn-soft: #2E2413;
+  --bad: #FF8C82; --bad-soft: #351B19; --on-ink: #0E1014;
+  --shadow-1: 0 1px 2px rgba(0, 0, 0, .4); --shadow-2: 0 12px 32px rgba(0, 0, 0, .5);
+  --p1: #8E96A3; --p2: #6F93FF; --p3: #F07C55; --p4: #3FB8AE; --p5: #9C83F0; --p6: #E0AA35; --p7: #FF7DB0;
+  color-scheme: dark;
+}
+
+
+/* Baseline signature: typographic guidelines behind the hero word, and a magenta baseline under the wordmark. */
+.wordmark { font-stretch: 122%; line-height: 1; overflow: hidden; }
+.wordmark .bl::after { content: ""; position: absolute; left: -12px; bottom: 0; width: 260px; height: 1.5px; background: var(--spec); }
+.specimen { position: relative; padding-top: 8px; }
+.specimen-wrap { position: relative; display: block; }
+.specimen-word {
+  position: relative; display: inline-block; font: 800 clamp(60px, 10.6vw, 156px)/1 var(--f-display); font-stretch: 125%;
+  letter-spacing: -0.035em; color: var(--ink); padding-right: 0.05em; z-index: 1; white-space: nowrap;
+}
+.specimen-word .probe { display: inline-block; width: 0; height: 0; vertical-align: baseline; }
+.guides { position: absolute; inset: 0; pointer-events: none; }
+.guide { position: absolute; left: 0; right: 0; height: 0; border-top: 1px solid var(--spec); opacity: .9; transform-origin: left; }
+.guide.dashed { border-top-style: dashed; opacity: .75; }
+.guide span {
+  position: absolute; right: 0; top: -22px; font: 600 12.5px/1 var(--f-body); color: var(--spec); background: var(--paper); padding: 2px 0 2px 8px;
+}
+@media (max-width: 760px) { .guide span { display: none; } }
+.guide-legend { display: none; margin-top: 10px; font: 600 12.5px/1.4 var(--f-body); color: var(--spec); }
+@media (max-width: 760px) { .guide-legend { display: block; } }
+@media (prefers-reduced-motion: no-preference) {
+  .guides.draw .guide { animation: drawline .9s cubic-bezier(.2, .7, .1, 1) both; }
+  .guides.draw .guide:nth-child(2) { animation-delay: .08s; } .guides.draw .guide:nth-child(3) { animation-delay: .16s; } .guides.draw .guide:nth-child(4) { animation-delay: .24s; }
+  .guides.draw .guide span { animation: fadein .4s .7s both; }
+}
+@keyframes drawline { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes fadein { from { opacity: 0; } to { opacity: 1; } }

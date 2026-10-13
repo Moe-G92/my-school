@@ -1,0 +1,49 @@
+{
+ "lesson": "color-basics",
+ "videos": [
+  {
+   "title": "Super Practical Guide to Color Theory, Color Models and Perfect Color Palettes | UI Design",
+   "channel": "Elizabeth Alli - DesignerUp",
+   "url": "https://www.youtube.com/watch?v=GyVMoejbGFg",
+   "minutes": 24,
+   "year": 2020,
+   "why": "Jump to 7:47 for the HSB model, a close cousin of the HSL sliders in this lesson, then watch the colour categories from 11:47 to see why some saturation and brightness combinations look muddy on screen."
+  },
+  {
+   "title": "How to Not Suck at Color - 5 color theory tips every designer should know",
+   "channel": "The Futur Academy",
+   "url": "https://www.youtube.com/watch?v=C1rQQ_YpgcI",
+   "minutes": 8,
+   "year": 2021,
+   "why": "Greg Gunn's five colour tips; the harmonies at 0:45 are the schemes you try in lab-harmony, and the section at 2:33 on why using less colour is better is the habit most generated palettes lack."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Radiolab",
+   "episode": "Colors",
+   "url": "https://podcasts.apple.com/gb/podcast/colors/id152249110?i=1000115755470",
+   "minutes": 66,
+   "year": 2012,
+   "why": "A classic episode on how humans and other animals see colour and how languages came to name it; good grounding for the idea that colour is something the eye and brain construct."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Color in UI Design: A (Practical) Framework",
+   "source": "Learn UI Design (Erik Kennedy)",
+   "url": "https://www.learnui.design/blog/color-in-ui-design-a-practical-framework.html",
+   "minutes": 9,
+   "free": true,
+   "why": "Erik Kennedy's rule for colour variations is that darker versions get more saturated and less bright, and lighter versions the reverse; try it on your own brand colour in lab-color-match."
+  },
+  {
+   "title": "Color Formats in CSS",
+   "source": "Josh W. Comeau",
+   "url": "https://www.joshwcomeau.com/css/color-formats/",
+   "minutes": 16,
+   "free": true,
+   "why": "Hex, RGB, HSL and the newer perceptual formats compared with interactive demos; read the HSL section to see why it is the easiest format for picking related colours by hand."
+  }
+ ]
+}

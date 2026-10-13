@@ -1,0 +1,65 @@
+{
+ "lesson": "ai-interfaces",
+ "videos": [
+  {
+   "title": "AI Interfaces Of The Future | Design Review",
+   "channel": "Y Combinator",
+   "url": "https://www.youtube.com/watch?v=DBhSfROq3wU",
+   "minutes": 36,
+   "year": 2025,
+   "why": "The designer behind Cron (now Notion Calendar) critiques real AI products, from agents and adaptive interfaces to voice, showing what works and what does not."
+  },
+  {
+   "title": "Humanizing AI Does Not Help Your Users",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=SgYj7gxhmtE",
+   "minutes": 4,
+   "year": 2025,
+   "why": "Why giving an AI a human persona is a quick trick that stops people getting the most out of it."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Dive Club",
+   "episode": "Vitaly Friedman - Beyond Chat:  What's Next for AI Design Patterns",
+   "url": "https://www.dive.club/deep-dives/vitaly-friedman",
+   "minutes": 57,
+   "year": 2025,
+   "why": "The founder of Smashing Magazine on how AI is changing the way people use products and which interface patterns are emerging beyond the chat box."
+  },
+  {
+   "show": "Honest UX Talks",
+   "episode": "#141 Designing Perplexity - The Builder's Guide to AI Design w/Henry Modisett",
+   "url": "https://podcasts.apple.com/gb/podcast/141-designing-perplexity-the-builders-guide-to-ai/id1547832809?i=1000715427195",
+   "minutes": 40,
+   "year": 2025,
+   "why": "Henry Modisett on his time designing Perplexity, making design decisions for a product that did not exist before and keeps changing shape."
+  }
+ ],
+ "reads": [
+  {
+   "title": "The Shape of AI",
+   "source": "Emily Campbell",
+   "url": "https://www.shapeof.ai/",
+   "minutes": 20,
+   "free": true,
+   "why": "A browsable library of AI interface patterns, grouped into wayfinders, inputs, tuners, governors, trust builders and identifiers, each with a short definition."
+  },
+  {
+   "title": "Guidelines for Human-AI Interaction",
+   "source": "Microsoft HAX Toolkit",
+   "url": "https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/",
+   "minutes": 15,
+   "free": true,
+   "why": "Eighteen research-based guidelines grouped by when they apply, from first use and everyday interaction to when the AI is wrong and how it should change over time."
+  },
+  {
+   "title": "People + AI Guidebook",
+   "source": "Google PAIR",
+   "url": "https://pair.withgoogle.com/guidebook/",
+   "minutes": 30,
+   "free": true,
+   "why": "Google's guide to deciding whether a feature needs AI at all, then designing for trust, explanations and errors when it does."
+  }
+ ]
+}

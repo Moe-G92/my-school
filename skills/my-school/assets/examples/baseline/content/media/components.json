@@ -1,0 +1,65 @@
+{
+ "lesson": "components",
+ "videos": [
+  {
+   "title": "Button States 101",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=3xfagjg5iRA",
+   "minutes": 3,
+   "year": 2025,
+   "why": "Enabled, disabled, focus, hover and selected states in three minutes, with what each one has to tell the user; list which of them your own primary button is missing."
+  },
+  {
+   "title": "Why Disabled Buttons Hurt UX (and How to Fix Them)",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=uEjidraxhAw",
+   "minutes": 5,
+   "year": 2025,
+   "why": "Why a greyed-out button that does nothing confuses people; note at 0:43 that contrast rules do not cover disabled controls, then copy the three tips at 3:01 into your component checklist."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Design Notes",
+   "episode": "Fab Components: Bethany Fong on Designing Material's Signature Floating Action Button",
+   "url": "https://podcasts.apple.com/gb/podcast/fab-components-bethany-fong-on-designing-materials/id1040955947?i=1000668866746",
+   "minutes": 45,
+   "year": 2024,
+   "why": "The story of a single component, Material's floating action button, from a designer who helped create Material Design; listen for how much thinking sits behind one round button."
+  },
+  {
+   "show": "Complementary",
+   "episode": "84: Interface elements with too much responsibility",
+   "url": "https://podcasts.apple.com/gb/podcast/84-interface-elements-with-too-much-responsibility/id1671376839?i=1000779551468",
+   "minutes": 30,
+   "year": 2026,
+   "why": "Each host picks interface elements that do more jobs than they should; good practice for asking what any one component in your app is actually responsible for."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Button States: Communicate Interaction",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/button-states-communicate-interaction/",
+   "minutes": 7,
+   "free": true,
+   "why": "The written companion to the video, with an example of each state; use it as the checklist when you work through lab-states."
+  },
+  {
+   "title": "States",
+   "source": "Material Design 3",
+   "url": "https://m3.material.io/foundations/interaction/states/overview",
+   "minutes": 3,
+   "free": true,
+   "why": "Google's six interaction states (enabled, disabled, hover, focused, pressed, dragged) and the note that states use two visual indicators for accessibility; a quick standard to compare your components against."
+  },
+  {
+   "title": "Toggle Buttons",
+   "source": "Inclusive Components (Heydon Pickering)",
+   "url": "https://inclusive-components.design/toggle-button/",
+   "minutes": 14,
+   "free": true,
+   "why": "Builds an accessible toggle step by step, showing that a component's state has to exist in the code (aria-pressed) as well as in how it looks; the bridge between a designed state and a built one."
+  }
+ ]
+}

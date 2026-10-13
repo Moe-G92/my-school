@@ -1,0 +1,57 @@
+{
+ "lesson": "type-basics",
+ "videos": [
+  {
+   "title": "Typography Theory: The Anatomy of Type | Basics for Beginners",
+   "channel": "TipTut",
+   "url": "https://www.youtube.com/watch?v=CDmzaapVvsM",
+   "minutes": 13,
+   "year": 2020,
+   "why": "A slow, clearly drawn tour of the parts of a letter; keep lab-type-anatomy open and test yourself on each term before he names it."
+  },
+  {
+   "title": "Hyperlegible: an approach to accessible type design",
+   "channel": "Linus Boman",
+   "url": "https://www.youtube.com/watch?v=wjE5eHLICzc",
+   "minutes": 10,
+   "year": 2021,
+   "why": "A case study of Atkinson Hyperlegible, made for the Braille Institute; from 4:51 he shows how easily confused letters were redrawn to be distinct, which is letter anatomy used for a real purpose."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Design Matters with Debbie Millman",
+   "episode": "Design Matters from the Archive: Tobias Frere-Jones",
+   "url": "https://podcasts.apple.com/gb/podcast/design-matters-from-the-archive-tobias-frere-jones/id328074695?i=1000375232285",
+   "minutes": 43,
+   "year": 2016,
+   "why": "Debbie Millman talks with the type designer behind Gotham about his career and why typefaces are like the air we breathe; a good way to hear how a type designer thinks about letterforms."
+  }
+ ],
+ "reads": [
+  {
+   "title": "An overview of Latin type anatomy",
+   "source": "Google Fonts Knowledge (Elliot Jay Stocks)",
+   "url": "https://fonts.google.com/knowledge/introducing_type/an_overview_of_latin_type_anatomy",
+   "minutes": 4,
+   "free": true,
+   "why": "The illustrated reference for x-height, baseline, cap height, ascenders and the rest; note the point that a large x-height makes one font look bigger than another at the same size."
+  },
+  {
+   "title": "Making sense of typographic classifications",
+   "source": "Google Fonts Knowledge (Elliot Jay Stocks)",
+   "url": "https://fonts.google.com/knowledge/introducing_type/making_sense_of_typographic_classifications",
+   "minutes": 5,
+   "free": true,
+   "why": "Serif, sans serif, slab, monospaced, script and display explained, with the honest caveat that the groups overlap; read it before you filter Google Fonts for a project."
+  },
+  {
+   "title": "What is good typography?",
+   "source": "Butterick's Practical Typography",
+   "url": "https://practicaltypography.com/what-is-good-typography.html",
+   "minutes": 3,
+   "free": true,
+   "why": "Matthew Butterick's one-page answer, that good typography reinforces the meaning of the text; a test you can apply to every font decision."
+  }
+ ]
+}

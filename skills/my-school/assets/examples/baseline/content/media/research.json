@@ -1,0 +1,65 @@
+{
+ "lesson": "research",
+ "videos": [
+  {
+   "title": "Usability Test Demo by Steve Krug",
+   "channel": "Steve Krug",
+   "url": "https://www.youtube.com/watch?v=1UCDUOB_aS8",
+   "minutes": 24,
+   "year": 2020,
+   "why": "A complete usability test from welcome to wrap-up, one of very few freely available; watch how little Krug says and how he keeps the participant thinking aloud instead of explaining the site to them."
+  },
+  {
+   "title": "Five User Interview Mistakes to Avoid (in 5 Minutes)",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=yBYd5USasXg",
+   "minutes": 6,
+   "year": 2022,
+   "why": "Acted examples of leading questions and over-talking set against better versions; pause after each mistake and say how you would rephrase it before the fix is shown."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Design Better",
+   "episode": "Steve Portigal: The art of interviewing users",
+   "url": "https://podcasts.apple.com/gb/podcast/steve-portigal-the-art-of-interviewing-users/id1266839739?i=1000662448415",
+   "minutes": 56,
+   "year": 2024,
+   "why": "The author of Interviewing Users on listening, following up and running interviews remotely; worth hearing before you talk to your first five users."
+  },
+  {
+   "show": "Rosenfeld Review Podcast",
+   "episode": "How To Get Usability Testing Right: a Chat with Steve Krug",
+   "url": "https://podcasts.apple.com/gb/podcast/how-to-get-usability-testing-right-a-chat-with-steve-krug/id970479151?i=1000375384990",
+   "minutes": 21,
+   "year": 2016,
+   "why": "Krug on keeping usability testing small, cheap and frequent enough that a non-researcher will actually do it; pairs with his demo video."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Why You Only Need to Test with 5 Users",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+   "minutes": 6,
+   "free": true,
+   "why": "Nielsen's original 2000 argument with the curve behind it; read to the end, where the real advice is to run several small rounds of testing instead of one big study."
+  },
+  {
+   "title": "When to Use Which User-Experience Research Methods",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/which-ux-research-methods/",
+   "minutes": 11,
+   "free": true,
+   "why": "Sorts research methods by whether they capture what people say or what they do; use it to pick one method for a real question about your own product."
+  },
+  {
+   "title": "Learning about users and their needs",
+   "source": "GOV.UK Service Manual",
+   "url": "https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs",
+   "minutes": 4,
+   "free": true,
+   "why": "How UK government teams find and write down user needs through research; a format you can copy straight into a product brief or an AI prompt."
+  }
+ ]
+}

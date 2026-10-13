@@ -1,0 +1,65 @@
+{
+ "lesson": "dashboards",
+ "videos": [
+  {
+   "title": "12 Dashboard design tips for better data visualization",
+   "channel": "Geckoboard",
+   "url": "https://www.youtube.com/watch?v=t3cAUt7sOQg",
+   "minutes": 10,
+   "year": 2022,
+   "why": "Twelve tool-agnostic tips, from knowing the dashboard's purpose and cutting non-data ink to rounding numbers and giving every figure context."
+  },
+  {
+   "title": "EVERYTHING you need to know to build a Dashboard UI in 8 minutes (beginner friendly)",
+   "channel": "Kole Jain",
+   "url": "https://www.youtube.com/watch?v=B7k5rOgmOGY",
+   "minutes": 8,
+   "year": 2025,
+   "why": "The interface around the data, including sidebars, main layout, modals and popovers, and the handful of components most SaaS dashboards are built from."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "storytelling with data podcast",
+   "episode": "storytelling with data: #24 Andy, Jeff & Steve and The Big Book of Dashboards",
+   "url": "https://podcasts.apple.com/gb/podcast/storytelling-with-data-24-andy-jeff-steve-and-the/id1318029970?i=1000457209782",
+   "minutes": 45,
+   "year": 2019,
+   "why": "The three authors of The Big Book of Dashboards on design tips and the aim of giving the most understanding for the least effort."
+  },
+  {
+   "show": "NN/G UX Podcast",
+   "episode": "7. Lessen Digital Misery with Complex Apps (feat. Page Laubheimer, Sr. UX Specialist at NN/g)",
+   "url": "https://podcasts.apple.com/gb/podcast/7-lessen-digital-misery-with-complex-apps-feat-page/id1711271084?i=1000630871858",
+   "minutes": 30,
+   "year": 2021,
+   "why": "How to keep business and enterprise tools simple when the work itself is complex, from an NN/g specialist in complex app design."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Common Pitfalls in Dashboard Design",
+   "source": "Perceptual Edge (Stephen Few)",
+   "url": "https://www.perceptualedge.com/articles/Whitepapers/Common_Pitfalls.pdf",
+   "minutes": 20,
+   "free": true,
+   "why": "Stephen Few's thirteen common dashboard mistakes, from spilling past a single screen to misusing colour; skip the vendor addendum at the end."
+  },
+  {
+   "title": "Choosing Chart Types: Consider Context",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/choosing-chart-types/",
+   "minutes": 12,
+   "free": true,
+   "why": "How to pick a chart by the question it must answer, and why bar, line and scatter charts cover most cases."
+  },
+  {
+   "title": "Data Table Design UX Patterns & Best Practices",
+   "source": "Pencil & Paper",
+   "url": "https://www.pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables",
+   "minutes": 20,
+   "free": true,
+   "why": "Detailed, illustrated rules for data tables, covering alignment, headers, row density, sorting and filtering."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "lesson": "ios-android",
+ "videos": [
+  {
+   "title": "WWDC25: Design foundations from idea to interface | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=dGcqqA3Sl-o",
+   "minutes": 19,
+   "year": 2025,
+   "why": "Apple's own session on structure, navigation, content and visual design for an app, the conventions iPhone users expect."
+  },
+  {
+   "title": "Build next-level UX with Material 3 Expressive",
+   "channel": "Android Developers",
+   "url": "https://www.youtube.com/watch?v=6IsFP3gD28E",
+   "minutes": 22,
+   "year": 2025,
+   "why": "Google's Material team explains the research and new guidelines behind the current Android look, useful to compare with Apple's approach."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Design Details",
+   "episode": "301: Android vs. iOS",
+   "url": "https://podcasts.apple.com/gb/podcast/301-android-vs-ios/id947191070?i=1000442035778",
+   "minutes": 65,
+   "year": 2019,
+   "why": "Two product designers answer listener questions, including the different philosophies behind the Android and iOS design systems and why they prefer an 8-point grid."
+  },
+  {
+   "show": "Design Notes",
+   "episode": "Material Design Gets Expressive: Inside Google's Emotion-Driven UX Update",
+   "url": "https://podcasts.apple.com/gb/podcast/material-design-gets-expressive-inside-googles-emotion/id1040955947?i=1000712220807",
+   "minutes": 55,
+   "year": 2025,
+   "why": "Members of the Material team on how the latest Android design update was shaped by user research."
+  }
+ ],
+ "reads": [
+  {
+   "title": "iOS vs. Android App UI Design: The Complete Guide",
+   "source": "Learn UI Design (Erik Kennedy)",
+   "url": "https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html",
+   "minutes": 15,
+   "free": true,
+   "why": "Compares the same patterns on each platform, including navigation, buttons, typography and icons, with screenshots to train your eye for the differences."
+  },
+  {
+   "title": "Designing for iOS",
+   "source": "Apple Human Interface Guidelines",
+   "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-ios",
+   "minutes": 6,
+   "free": true,
+   "why": "Apple's short summary of the iPhone's display, ergonomics, inputs and typical usage patterns, and the best practices that follow from them."
+  },
+  {
+   "title": "Start building with Material 3 Expressive",
+   "source": "Material Design 3",
+   "url": "https://m3.material.io/blog/building-with-m3-expressive",
+   "minutes": 8,
+   "free": true,
+   "why": "Google's introduction to the current Material update, covering new and updated components, spring-based motion and the research behind them."
+  }
+ ]
+}

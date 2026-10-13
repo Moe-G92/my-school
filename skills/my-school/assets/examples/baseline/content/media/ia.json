@@ -1,0 +1,57 @@
+{
+ "lesson": "ia",
+ "videos": [
+  {
+   "title": "WWDC25: Design foundations from idea to interface | Apple",
+   "channel": "Apple Developer",
+   "url": "https://www.youtube.com/watch?v=dGcqqA3Sl-o",
+   "minutes": 19,
+   "year": 2025,
+   "why": "Watch the structure and navigation chapters (1:11 to 8:19) for how Apple's designers think about an app's sections and how people move between them, before any visual design happens at 13:28."
+  },
+  {
+   "title": "Flat vs. Deep Hierarchies in Information Architecture (IA)",
+   "channel": "Nielsen Norman Group",
+   "url": "https://www.youtube.com/watch?v=o4Az6orvtp0",
+   "minutes": 4,
+   "year": 2024,
+   "why": "The trade-off between many choices at the top level and many levels of clicking, with the costs of each; decide which one your own navigation is before you watch the end."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "The Big Web Show",
+   "episode": "Episode 142: Information Architecture is Still Very Much a Thing, with Abby Covert",
+   "url": "https://podcasts.apple.com/gb/podcast/episode-142-information-architecture-is-still-very/id370445683?i=1000361087576",
+   "minutes": 47,
+   "year": 2016,
+   "why": "Abby Covert, author of How to Make Sense of Any Mess, talks with Jeffrey Zeldman about why information architecture still matters and why anyone who organises content is already doing it."
+  }
+ ],
+ "reads": [
+  {
+   "title": "The Difference Between Information Architecture (IA) and Navigation",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/ia-vs-navigation/",
+   "minutes": 4,
+   "free": true,
+   "why": "Short and clear on why the structure of your content and the menus that expose it are separate decisions; read it before you redesign any menu."
+  },
+  {
+   "title": "Card Sorting: Uncover Users' Mental Models",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/card-sorting-definition/",
+   "minutes": 12,
+   "free": true,
+   "why": "How to ask people to group your content themselves, with open and closed variants; a cheap study you can run with index cards or a free online tool."
+  },
+  {
+   "title": "Tree Testing: Evaluate Menu Labels and Categories",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/tree-testing/",
+   "minutes": 14,
+   "free": true,
+   "why": "The partner to card sorting, which checks whether people can find things in a proposed menu with no visual design in the way; use it to test labels before you build."
+  }
+ ]
+}

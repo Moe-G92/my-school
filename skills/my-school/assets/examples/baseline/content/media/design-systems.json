@@ -1,0 +1,65 @@
+{
+ "lesson": "design-systems",
+ "videos": [
+  {
+   "title": "Tokens, variables, and styles - Update: Introduction to design systems",
+   "channel": "Figma",
+   "url": "https://www.youtube.com/watch?v=JyCmacSyDY4",
+   "minutes": 13,
+   "year": 2023,
+   "why": "Primitive, semantic and component-specific tokens explained from 4:22, then dark mode and spacing tokens at 10:39; the same three tiers as this lesson's token figure, worth watching before lab-tokens."
+  },
+  {
+   "title": "Brad Frost: Is Atomic Design Dead? – Hatch Conference Berlin 2023",
+   "channel": "Hatch Conference",
+   "url": "https://www.youtube.com/watch?v=PK_PICNTgAg",
+   "minutes": 37,
+   "year": 2023,
+   "why": "Ten years after Atomic Design, its author asks whether building interfaces from small reusable parts still holds up, and what AI-generated content changes; the longer talk for this lesson."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Smashing Podcast",
+   "episode": "What are Design Tokens? with Jina Anne",
+   "url": "https://podcasts.apple.com/gb/podcast/what-are-design-tokens-with-jina-anne/id1485403438?i=1000457255489",
+   "minutes": 32,
+   "year": 2019,
+   "why": "Jina Anne, who helped popularise design tokens, explains what they are, what problem they solve and how they fit into an existing design system."
+  },
+  {
+   "show": "Smashing Podcast",
+   "episode": "What is a Government Design System? with Amy Hupe",
+   "url": "https://podcasts.apple.com/gb/podcast/what-is-a-government-design-system-with-amy-hupe/id1485403438?i=1000462442825",
+   "minutes": 42,
+   "year": 2020,
+   "why": "How the GOV.UK Design System is used across UK government and how that differs from commercial work; the system is public, so you can open it while you listen."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Design Systems 101",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/design-systems-101/",
+   "minutes": 9,
+   "free": true,
+   "why": "Defines a design system as a repository plus the people who manage it, and separates the style guide, component library and pattern library; good vocabulary for prompts."
+  },
+  {
+   "title": "Atomic Design Methodology",
+   "source": "Brad Frost, Atomic Design (free online book, chapter 2)",
+   "url": "https://atomicdesign.bradfrost.com/chapter-2/",
+   "minutes": 18,
+   "free": true,
+   "why": "Atoms, molecules, organisms, templates and pages explained with real examples; read it with your own components folder open and sort what you already have into those levels."
+  },
+  {
+   "title": "Design Tokens Community Group",
+   "source": "W3C Design Tokens Community Group",
+   "url": "https://www.designtokens.org/",
+   "minutes": 3,
+   "free": true,
+   "why": "The group behind the shared JSON format for tokens, whose first stable version arrived in 2025; the adopters list (Figma, Penpot, Sketch, Style Dictionary and others) shows why the format is worth following."
+  }
+ ]
+}

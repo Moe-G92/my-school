@@ -1,0 +1,65 @@
+{
+ "lesson": "landing-pages",
+ "videos": [
+  {
+   "title": "Landing Page Structure (With Examples)",
+   "channel": "Flux Academy",
+   "url": "https://www.youtube.com/watch?v=fGCtS6D6tr0",
+   "minutes": 16,
+   "year": 2021,
+   "why": "Walks down a landing page in order (title, subtitle, call to action, social proof, visuals, features) and explains what each section has to do."
+  },
+  {
+   "title": "Learn Copywriting in 76 Minutes – Harry Dry",
+   "channel": "David Perell",
+   "url": "https://www.youtube.com/watch?v=TUMjnmfsPeM",
+   "minutes": 71,
+   "year": 2024,
+   "why": "A longer conversation with the founder of Marketing Examples on writing specific, concrete copy, the words that do most of a landing page's work."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "Masters of SaaS",
+   "episode": "The Anatomy of a Perfect SaaS Landing Page - Joanna Wiebe @ Copyhackers",
+   "url": "https://podcasts.apple.com/gb/podcast/the-anatomy-of-a-perfect-saas-landing-page/id1523047794?i=1000613184976",
+   "minutes": 70,
+   "year": 2023,
+   "why": "The founder of Copyhackers, a pioneer of conversion copywriting, on what a software landing page needs and in what order."
+  },
+  {
+   "show": "Seriously in Business",
+   "episode": "85: What's Not Landing About Your Landing Page Design with Lex Roman",
+   "url": "https://whitedeer.com.au/lex-roman/",
+   "minutes": 30,
+   "year": 2022,
+   "why": "How a landing page differs from the rest of a website, the mistakes the guest sees most often, and the key parts every page needs."
+  }
+ ],
+ "reads": [
+  {
+   "title": "My step-by-step guide to landing pages that convert",
+   "source": "Marketing Examples (Harry Dry)",
+   "url": "https://marketingexamples.com/landing-page/guide",
+   "minutes": 10,
+   "free": true,
+   "why": "A ten-step framework, five elements above the fold and five below, illustrated with real landing pages and a simple test for whether each part earns its place."
+  },
+  {
+   "title": "Startup Handbook: Landing Page Copywriting",
+   "source": "Julian Shapiro",
+   "url": "https://www.julian.com/guide/startup/landing-pages",
+   "minutes": 12,
+   "free": true,
+   "why": "A clear model of a landing page as a sequence (hero, social proof, call to action, features and objections, footer) with advice for each part."
+  },
+  {
+   "title": "Homepage Design: 5 Fundamental Principles",
+   "source": "Nielsen Norman Group",
+   "url": "https://www.nngroup.com/articles/homepage-design-principles/",
+   "minutes": 14,
+   "free": true,
+   "why": "Research-backed principles for the page most people see first, including clear scrolling cues and a strong visual hierarchy."
+  }
+ ]
+}

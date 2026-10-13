@@ -1,0 +1,65 @@
+{
+ "lesson": "responsive",
+ "videos": [
+  {
+   "title": "A practical guide to responsive web design",
+   "channel": "Kevin Powell",
+   "url": "https://www.youtube.com/watch?v=x4u1yp3Msao",
+   "minutes": 23,
+   "year": 2024,
+   "why": "Shows that pages are responsive before you add any CSS, then why fixed sizes break layouts and when you genuinely need a media query."
+  },
+  {
+   "title": "“Designing Intrinsic Layouts” by Jen Simmons—An Event Apart video",
+   "channel": "An Event Apart",
+   "url": "https://www.youtube.com/watch?v=AMPKmh98XLY",
+   "minutes": 59,
+   "year": 2020,
+   "why": "A longer talk on what Grid, Flexbox and multi-column layout make possible, and how to design layouts that adapt to their content instead of fixed breakpoints."
+  }
+ ],
+ "podcasts": [
+  {
+   "show": "The Big Web Show",
+   "episode": "Episode 176: Intrinsic Web Design with Jen Simmons",
+   "url": "https://bigwebshow.fireside.fm/176",
+   "minutes": 69,
+   "year": 2018,
+   "why": "The person who coined intrinsic web design explains the idea to Jeffrey Zeldman, and why it changes how we think about screens."
+  },
+  {
+   "show": "Syntax",
+   "episode": "Responsive Design Techniques",
+   "url": "https://syntax.fm/show/540/responsive-design-techniques",
+   "minutes": 62,
+   "year": 2022,
+   "why": "A tour of modern responsive techniques you may not have used yet, useful vocabulary for prompting an AI tool."
+  }
+ ],
+ "reads": [
+  {
+   "title": "Responsive Web Design",
+   "source": "A List Apart (Ethan Marcotte)",
+   "url": "https://alistapart.com/article/responsive-web-design/",
+   "minutes": 14,
+   "free": true,
+   "why": "The 2010 article that named the approach of fluid grids, flexible images and media queries, still worth reading for the reasoning."
+  },
+  {
+   "title": "Learn Responsive Design",
+   "source": "web.dev",
+   "url": "https://web.dev/learn/design",
+   "minutes": 60,
+   "free": true,
+   "why": "A free course in short modules on layout, typography, images and interaction across screen sizes; dip into one module a day."
+  },
+  {
+   "title": "Axioms",
+   "source": "Every Layout",
+   "url": "https://every-layout.dev/rudiments/axioms/",
+   "minutes": 8,
+   "free": true,
+   "why": "Uses line length as the example of setting a rule once and letting the browser apply it everywhere, the mindset behind good responsive work."
+  }
+ ]
+}

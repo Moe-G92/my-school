@@ -1,5 +1,6 @@
 {
   "name": "my-school",
+  "displayName": "My School",
   "version": "1.0.1",
   "description": "Build a personal, interactive school for any subject: lessons, read-aloud, verified videos and podcasts, hands-on labs, quick checks, a journal, a glossary and an AI coach.",
   "author": {
@@ -14,5 +15,8 @@
     "education",
     "course",
     "agent-skills"
-  ]
+  ],
+  "documentationUrl": "https://github.com/Moe-G92/my-school#readme",
+  "supportUrl": "https://github.com/Moe-G92/my-school/issues",
+  "privacyPolicyUrl": "https://github.com/Moe-G92/my-school/blob/main/PRIVACY.md"
 }

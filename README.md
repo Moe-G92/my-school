@@ -202,7 +202,7 @@ Then open `baseline/dist/preview.html` in a browser.
 
 ## Privacy
 
-The sites this skill builds keep a learner's progress and journal in their own browser, or in their private storage inside a Claude artifact. Nobody else can read that, including people the page is shared with. The coach runs on the learner's own Claude account. Lesson links open third-party sites (YouTube, podcast hosts, publishers).
+The sites this skill builds keep a learner's progress and journal in their own browser, or in their private storage inside a Claude artifact. Nobody else can read that, including people the page is shared with. The coach runs on the learner's own Claude account. Lesson links open third-party sites (YouTube, podcast hosts, publishers). The full [privacy policy](PRIVACY.md) has the details. For questions or problems, [open an issue](https://github.com/Moe-G92/my-school/issues).
 
 ## Contributing
 

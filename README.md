@@ -179,6 +179,27 @@ node ./baseline/build.mjs
 
 Then open `baseline/dist/preview.html` in a browser.
 
+## What it runs, sends and fetches
+
+**The skill itself.** My School is instructions plus three Node.js scripts. It has no hooks, no MCP servers and nothing that runs in the background. The agent runs a script only when the instructions call for it, while building a school:
+
+- `init_project.mjs` copies the engine and templates into a new project folder on your machine.
+- `build.mjs` bundles that folder into one HTML page. It runs locally and makes no network requests.
+- `check.mjs` (optional) starts a temporary web server on `127.0.0.1` and opens the page in headless Chrome through Playwright, which it finds via `npm root -g` or the `PLAYWRIGHT_PATH` variable. Its screenshots are saved in the project's `dist/_check` folder, plus one temporary image in the system's temp folder. Its account-feature test uses a simulated host inside the browser and sends nothing anywhere.
+
+**While a school is being built.** The agent researches the subject on the web. It runs web searches and fetches pages to confirm that each video, podcast episode and article exists. Videos are checked through YouTube's public oEmbed endpoint (`youtube.com/oembed`); podcast and article pages are fetched directly. If the agent can run helpers, it may start several to write lessons and research media in parallel. In Claude, it publishes the finished site as a private artifact in your own account.
+
+**The sites it builds.**
+
+- Fonts load from Google Fonts (`fonts.googleapis.com`, `fonts.gstatic.com`). The Markdown renderer [marked](https://github.com/markedjs/marked) and the sanitiser [DOMPurify](https://github.com/cure53/DOMPurify) load from `cdnjs.cloudflare.com`.
+- There are no analytics, trackers or ads.
+- Links to videos, podcasts and articles open third-party sites only when the learner clicks them.
+- Progress and journal entries stay in the learner's browser storage. When the site is a Claude artifact, they are also kept in the learner's private storage in that artifact, which nobody else can read, including people the page is shared with.
+- The coach and the feedback on your work send the learner's question or submitted work, with the course's lesson list, to Claude through the learner's own account. This happens only when the learner presses a button. The first use asks their permission.
+- Nothing is sent to the authors of this skill or to any other server.
+
+**The installer.** `install.sh` downloads this repository's archive from `codeload.github.com` and copies `skills/my-school` into your local skills folders. With `--uninstall` it deletes those copies. `npx skills` and `gh skill` are third-party and GitHub tools with their own behaviour.
+
 ## Privacy
 
 The sites this skill builds keep a learner's progress and journal in their own browser, or in their private storage inside a Claude artifact. Nobody else can read that, including people the page is shared with. The coach runs on the learner's own Claude account. Lesson links open third-party sites (YouTube, podcast hosts, publishers).
